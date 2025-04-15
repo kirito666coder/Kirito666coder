@@ -1,0 +1,22 @@
+name: Generate Language Usage SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # every Sunday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate language usage chart
+        uses: DevEvil99/github-profile-language-visualizer@v1.2.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          user_name: Kirito666coder
+          include_private: true
+          svg_file_name: language-usage.svg
+          svg_out_path: ./dist
+          commit_and_push: true
