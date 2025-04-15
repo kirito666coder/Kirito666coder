@@ -38,7 +38,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-nu-umber.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&show_rank=true&border_radius=10" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" /></a>
+  <img width="49%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
 </p>
 
 
