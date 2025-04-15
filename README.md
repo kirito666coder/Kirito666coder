@@ -51,5 +51,5 @@
   <img src="https://raw.githubusercontent.com/Kirito666coder/Kirito666coder/output/dist/language-usage.svg" alt="Language Usage Graph" />
 </p>
 
-
+![GitHub Stats](https://github-readme-stats-kirito666coder-8d898oqvi.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10)
 
