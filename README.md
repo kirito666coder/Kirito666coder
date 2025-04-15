@@ -18,7 +18,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql,django,docker,graphql,kubernetes" /><br>
 </div>
 
 <br/>
@@ -42,11 +42,15 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=Kirito666coder&layout=compact&theme=react&border_radius=10" />
+  <table border="0">
+    <tr border='0'>
+      <td width="50%"><img width="100%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=Kirito666coder&layout=compact&theme=react&border_radius=10" /></td>
+      <td width="50%">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kirito666coder&theme=radical&border_radius=10" />
+        <br>
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kirito666coder&theme=react&border_radius=10" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-
-
-
-
 
