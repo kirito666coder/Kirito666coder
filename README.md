@@ -37,19 +37,16 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-nu-umber.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&show_rank=true&border_radius=10" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kirito666coder&theme=react&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirito666coder&layout=compact&theme=react&hide=html&border_radius=10" />
+  <img width="40%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=Kirito666coder&layout=compact&theme=react&border_radius=10" />
 </p>
 
-## 🧠 Language Usage (Public + Private)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kirito666coder/Kirito666coder/output/dist/language-usage.svg" alt="Language Usage Graph" />
-</p>
 
-![GitHub Stats](https://github-readme-stats-kirito666coder-8d898oqvi.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10)
+
+
 
