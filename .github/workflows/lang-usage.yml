@@ -1,22 +1,26 @@
-name: Generate Language Usage SVG
+name: GitHub Profile Language Visualizer
 
 on:
-  schedule:
-    - cron: "0 0 * * 0" # every Sunday
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
-  build:
+  visualize:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Generate language usage chart
-        uses: DevEvil99/github-profile-language-visualizer@v1.2.0
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run GitHub Profile Language Visualizer
+        uses: Platane/snk@v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          user_name: Kirito666coder
-          include_private: true
-          svg_file_name: language-usage.svg
-          svg_out_path: ./dist
-          commit_and_push: true
+          github_user_name: 'Kirito666coder'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
