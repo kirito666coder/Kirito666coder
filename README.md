@@ -176,7 +176,7 @@
 <p align="center">
   <table border="0">
     <tr border='0'>
-      <td width="50%"><img width="100%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=Kirito666coder&layout=compact&theme=react&border_radius=10" /></td>
+      <td width="50%"><img width="100%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=Kirito666coder&layout=compact&theme=react&border_radius=10&hide=PHP,Shell,Dockerfile,Procfile" /></td>
       <td width="50%">
         <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kirito666coder&theme=radical&border_radius=10" />
         <br>
