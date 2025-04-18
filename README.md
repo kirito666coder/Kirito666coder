@@ -151,11 +151,27 @@
 
 ## ⚡ GitHub Stats
 
+<table>
+  <tr>
+    <td align="center"><strong>Private Stats</strong></td>
+    <td align="center"><strong>Public Stats</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-nu-umber.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&show_rank=true&border_radius=10" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kirito666coder&show_icons=true&theme=react&show_rank=true&border_radius=10" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-nu-umber.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&show_rank=true&border_radius=10" />
+  <strong>GitHub Streak</strong>
+    <br/>
+    <br/>
   <img width="49%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <table border="0">
