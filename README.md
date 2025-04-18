@@ -22,6 +22,121 @@
 </div>
 
 <br/>
+
+## 🚀 Tech Stack
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br/>
+      <b>HTML</b><br/>
+      Used in 50+ projects
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br/>
+      <b>CSS</b><br/>
+      Intermediate level
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br/>
+      <b>JavaScript</b><br/>
+      Core language, confident
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" /><br/>
+      <b>TypeScript</b><br/>
+      Used with React & Node
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br/>
+      <b>React</b><br/>
+      used in 40+ projects
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /><br/>
+      <b>Next.js</b><br/>
+      SSR, fullstack app framework
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" /><br/>
+      <b>Angular</b><br/>
+      Component-based frontend framework
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br/>
+      <b>Tailwind CSS</b><br/>
+      Preferred UI styling
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /><br/>
+      <b>Node.js</b><br/>
+      Building backend APIs
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" /><br/>
+      <b>Express</b><br/>
+      Used in MERN projects
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /><br/>
+      <b>MongoDB</b><br/>
+      Database for most apps
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br/>
+      <b>MySQL</b><br/>
+      Relational database knowledge
+    </td>
+   
+  </tr>
+  <tr>
+   <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br/>
+      <b>Python</b><br/>
+      used in backend applications
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" /><br/>
+      <b>Django</b><br/>
+      Web framework for Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br/>
+      <b>Docker</b><br/>
+      Containerization tool
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br/>
+      <b>Git</b><br/>
+      Confident with version control
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" /><br/>
+      <b>GitHub</b><br/>
+      Actively pushing projects
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br/>
+      <b>VS Code</b><br/>
+      Daily driver editor
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" /><br/>
+      <b>Figma</b><br/>
+      Proficient in UI/UX designing
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="50" /><br/>
+      <b>Three.js</b><br/>
+      3D web experiences with WebGL
+    </td>
+  </tr>
+</table>
+
 <hr/>
 
 <div align="center">
