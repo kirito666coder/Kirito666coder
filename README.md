@@ -52,7 +52,8 @@
 
 <br/>
 
-<details><summary>TECH STACK</summary>
+<details>
+ <summary align="center"><b>TECH STACK</b></summary>
 
 ## 🚀 Tech Stack
 
@@ -293,7 +294,8 @@
 
 <hr/>
 
-<details><summary>GITHUB STATS</summary>
+<details>
+ <summary align="center"><b>GITHUB STATS</b></summary>
 
 ## ⚡ GitHub Stats
 
@@ -361,7 +363,10 @@
 <hr/>
 
 
----
+<details>
+ <summary align="center"><b>About</b></summary>
+
+<div align="center">
 
 ## 🔚 In the End
 
@@ -374,3 +379,8 @@ I'm **Kirito** — full-stack MERN developer.
 **Code hard. Debug harder.**  
 **From idea to execution — I live the process.**  
 **Beyond MERN: Docker, CI/CD, REST, GraphQL, TypeScript, Angular, Django, MySQL — no limits.**
+
+</div>
+
+</details>
+<hr/>
