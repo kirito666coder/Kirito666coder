@@ -289,16 +289,9 @@
 
 
 <hr/>
+<details><summary>GITHUB STATS</summary>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kirito666coder/Kirito666coder/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
 
-<hr/>
 
 ## ⚡ GitHub Stats
 
@@ -352,3 +345,13 @@
      
   </tr>
 </table>
+
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kirito666coder/Kirito666coder/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+</details>
