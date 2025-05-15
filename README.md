@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirito!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hi+There!;+I'm+Kirito!;" />
 </h1>
 
 <h1 align="center">
@@ -359,3 +359,18 @@
 </details>
 
 <hr/>
+
+
+---
+
+## 🔚 In the End
+
+I'm **Kirito** — full-stack MERN developer.
+
+**Eat. Sleep. Code. Repeat.**  
+**Think deep. Build clean. Ship fast.**  
+**Pixels to logic — I do it all.**  
+**Not just a dev — a problem solver.**  
+**Code hard. Debug harder.**  
+**From idea to execution — I live the process.**  
+**Beyond MERN: Docker, CI/CD, REST, GraphQL, TypeScript, Angular, Django, MySQL — no limits.**
