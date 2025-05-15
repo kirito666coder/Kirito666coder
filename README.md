@@ -19,6 +19,7 @@
 </p>
 
  <hr/>
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
@@ -51,6 +52,7 @@
 
 <br/>
 
+<details><summary>TECH STACK</summary>
 
 ## 🚀 Tech Stack
 
@@ -287,11 +289,11 @@
   </tr>
 </table>
 
+</details>
 
 <hr/>
+
 <details><summary>GITHUB STATS</summary>
-
-
 
 ## ⚡ GitHub Stats
 
@@ -355,3 +357,5 @@
   <br/>
 </div>
 </details>
+
+<hr/>
