@@ -26,7 +26,7 @@
 <div align="center">
 
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,windows,github,figma,git,linux,postman,webpack,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,windows,github,figma,git,linux,postman" /><br>
 
   <h3>AI Tools</h3>
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
@@ -36,11 +36,22 @@
   <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" /><br>
 
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,angular,django,redux,threejs,vite" /><br>
+  <h3>Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,angular,django" /><br>
 
-  <h3>Dev Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=npm,jest,graphql,aws" /><br>
+  <h3>Libraries & UI Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,redux,threejs" /><br>
+  <img src="https://skillicons.dev/icons?i=shadcn.ui,tailwind" /><br>
+  
+
+  <h3>Dev Tools & Build Systems</h3>
+  <img src="https://skillicons.dev/icons?i=vite,docker,webpack,npm" /><br>
+
+  <h3>Cloud & Deployment</h3>
+  <img src="https://skillicons.dev/icons?i=vercel,aws" /><br>
+
+  <h3>Testing</h3>
+  <img src="https://skillicons.dev/icons?i=jest" /><br>
 
   <h3>Databases</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /><br>
