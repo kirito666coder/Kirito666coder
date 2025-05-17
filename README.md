@@ -427,6 +427,8 @@
     <img src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
  </div>  
 
+ 
+
 ```js
 class Kirito {
   constructor() {
@@ -475,6 +477,8 @@ me.expandSkills(); // [ ...no limits ]
  <div align="center">
     <img src="https://media1.tenor.com/m/itXrt7Ulp5UAAAAd/doma-upper-moon2.gif" width="1000" />
  </div>  
+
+ ![Douma GIF](https://media1.tenor.com/m/itXrt7Ulp5UAAAAd/doma-upper-moon2.gif)
 
 </details>
 <hr/>
