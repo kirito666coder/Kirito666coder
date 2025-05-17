@@ -80,6 +80,11 @@
     <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Tools & Technologies</th>
   </tr>
   <tr>
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" /><br/>
+      <b>Windows</b><br/>
+      Development on Windows OS
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br/>
       <b>VS Code</b><br/>
@@ -101,22 +106,12 @@
       Proficient in UI/UX designing
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br/>
-      <b>Docker</b><br/>
-      Containerization tool
-    </td>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" /><br/>
       <b>Postman</b><br/>
       API testing tool
     </td>
   </tr>
   <tr>
-     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" /><br/>
-      <b>Windows</b><br/>
-      Development on Windows OS
-    </td>
   <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
       <b>Linux</b><br/>
@@ -290,21 +285,6 @@
       <b>NPM</b><br/>
       JavaScript package manager
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" /><br>
-      <b>AWS</b><br/>
-      Cloud computing platform
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" /><br/>
-      <b>Jest</b><br/>
-      Testing framework for JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=graphql" /><br/>
-      <b>GraphQL</b><br/>
-      Query language for APIs
-    </td>
   </tr>
 
   <!-- Cloud & Deployment-->
@@ -313,15 +293,22 @@
 </th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" /><br/>
-      <b>ChatGPT</b><br/>
-      AI Assistant for development
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" /><br>
+      <b>AWS</b><br/>
+      Cloud computing platform
     </td>
+  </tr>
+
+<!-- Testing -->
+  <tr>
+    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Testing Tools</th>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" height="50" /><br/>
-      <b>Cursor</b><br/>
-      AI-based code editor
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" /><br/>
+      <b>Jest</b><br/>
+      Testing framework for JavaScript
     </td>
   </tr>
 
