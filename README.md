@@ -419,9 +419,9 @@
 
 
 <details>
- <summary align="center"><b>About</b></summary>
+ <summary align="center"><b>About Me</b></summary>
 
-<h3 align="center">🔚 In the End</h3>
+<h3 align="center">In the End</h3>
 
 ```js
 class Kirito {
@@ -467,6 +467,10 @@ me.debug();       // "Code hard. Debug harder."
 me.expandSkills(); // [ ...no limits ]
 
 ```
+
+ <div align="center">
+    <img src="https://media1.tenor.com/m/vC8oamvfdGgAAAAd/douma.gif" width="200" />
+ </div>  
 
 </details>
 <hr/>
