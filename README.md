@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=jest" /><br>
 
   <h3>Mobile</h3>
-  <img height="40" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" />
+  <img height="40" src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" alt="React Native" />
 
 </div>
 
@@ -421,7 +421,10 @@
 <details>
  <summary align="center"><b>About Me</b></summary>
 
-<h3 align="center">In the End</h3>
+
+ <div align="center">
+    <img src="	https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
+ </div>  
 
 ```js
 class Kirito {
@@ -469,7 +472,7 @@ me.expandSkills(); // [ ...no limits ]
 ```
 
  <div align="center">
-    <img src="https://media1.tenor.com/m/vC8oamvfdGgAAAAd/douma.gif" width="200" />
+    <img src="https://media1.tenor.com/m/itXrt7Ulp5UAAAAd/doma-upper-moon2.gif" width="1000" />
  </div>  
 
 </details>
