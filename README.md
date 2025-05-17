@@ -474,8 +474,5 @@ me.expandSkills(); // [ ...no limits ]
 
 ```
 
-  <img src="https://media1.tenor.com/m/itXrt7Ulp5UAAAAd/doma-upper-moon2.gif" width="1000" />
- 
-
 </details>
 <hr/>
