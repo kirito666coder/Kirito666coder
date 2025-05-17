@@ -63,7 +63,8 @@
   <img src="https://skillicons.dev/icons?i=jest" /><br>
 
   <h3>Mobile</h3>
-  <img height="40" src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" alt="React Native" />
+ 
+  <img height="40" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" />
 
 </div>
 
