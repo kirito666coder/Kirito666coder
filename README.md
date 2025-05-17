@@ -26,7 +26,7 @@
 <div align="center">
 
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,windows,github,figma,git,linux,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,figma,linux,postman" /><br>
 
   <h3>AI Tools</h3>
   <img height="47" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
@@ -38,17 +38,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" /><br>
 
   <h3>Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,angular,django" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,nodejs,express,django" /><br>
 
   <h3>Libraries & UI Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,threejs" />
+  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=redux,threejs" />
   <img src="./images/shadcn-ui.png" height='47'/>
   <br>
   
   
   <h3>Dev Tools & Build Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vite,docker,webpack,npm" />
+  <img src="https://skillicons.dev/icons?i=vite,npm,docker,webpack" />
     <img src="./images/clerk.png" height='47'/>
   <br>
 
@@ -56,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /><br>
 
   <h3>Cloud & Deployment</h3>
-  <img src="https://skillicons.dev/icons?i=vercel,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,vercel" /><br>
 
   <h3>Testing</h3>
   <img src="https://skillicons.dev/icons?i=jest" /><br>
@@ -221,8 +222,6 @@
   <b>Socket.IO</b><br/>
   Real-time, bidirectional communication between web clients and servers
 </td>
- 
-   
   </tr>
   <tr>
 <td align="center">
@@ -230,6 +229,12 @@
       <b>Three.js</b><br/>
       3D web experiences with WebGL
     </td>
+    <td align="center">
+  <img src="./images/shadcn-ui.png" height="50" alt="shadcn UI Logo" /><br/>
+  <b>shadcn UI</b><br/>
+  Component library built on top of Radix UI & Tailwind CSS
+</td>
+
   </tr>
 
   <!-- Databases Section -->
@@ -254,22 +259,28 @@
     </td>
   </tr>
 
-  <!-- AI Tools Section -->
-  <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">AI Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" /><br/>
-      <b>ChatGPT</b><br/>
-      AI Assistant for development
-    </td>
-    <td align="center">
-      <img src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" height="50" /><br/>
-      <b>Cursor</b><br/>
-      AI-based code editor
-    </td>
-  </tr>
+<!-- AI Tools Section -->
+<tr>
+  <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">AI Tools</th>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" /><br/>
+    <b>ChatGPT</b><br/>
+    AI Assistant for development
+  </td>
+  <td align="center">
+    <img src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" height="50" /><br/>
+    <b>Cursor</b><br/>
+    AI-based code editor
+  </td>
+  <td align="center">
+    <img src="./images/pieces.png" height="50" alt="Pieces Logo" /><br/>
+    <b>Pieces</b><br/>
+    AI-powered dev assistant & workflow
+  </td>
+</tr>
+
 <!-- Dev tools build tools -->
 <tr>
   <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Dev Tools & Build Tools</th>
@@ -303,18 +314,22 @@
 </tr>
 
 
-  <!-- Cloud & Deployment-->
-  <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Cloud & Deployment
-</th>
-  </tr>
-  <tr>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" /><br>
-      <b>AWS</b><br/>
-      Cloud computing platform
-    </td>
-  </tr>
+ <!-- Cloud & Deployment-->
+<tr>
+  <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Cloud & Deployment</th>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=aws" width="50" /><br/>
+    <b>AWS</b><br/>
+    Cloud computing platform
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=vercel" width="50" /><br/>
+    <b>Vercel</b><br/>
+    Frontend deployment platform
+  </td>
+</tr>
 
 <!-- Testing -->
   <tr>
