@@ -29,9 +29,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,windows,github,figma,git,linux,postman" /><br>
 
   <h3>AI Tools</h3>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
-  <img height="40" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" alt="Cursor" />
-    <img src="./images/pieces.png" height='40' />
+  <img height="47" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
+  <img height="47" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" alt="Cursor" />
+    <img src="./images/pieces.png" height='47' />
   <br>
 
   <h3>Programming Languages</h3>
@@ -43,13 +43,13 @@
   <h3>Libraries & UI Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react,redux,threejs" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="./images/shadcn-ui.png" height='40'/>
+  <img src="./images/shadcn-ui.png" height='47'/>
   <br>
   
   
   <h3>Dev Tools & Build Systems</h3>
   <img src="https://skillicons.dev/icons?i=vite,docker,webpack,npm" />
-    <img src="./images/clerk.png" height='40'/>
+    <img src="./images/clerk.png" height='47'/>
   <br>
 
   <h3>Databases</h3>
