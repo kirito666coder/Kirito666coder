@@ -424,7 +424,7 @@
 
 
  <div align="center">
-    <img src="	https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
+    <img src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
  </div>  
 
 ```js
