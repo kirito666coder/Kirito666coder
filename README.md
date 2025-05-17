@@ -43,13 +43,13 @@
   <h3>Libraries & UI Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=redux,threejs" />
+  <img src="https://skillicons.dev/icons?i=redux,threejs,materialui" />
   <img src="./images/shadcn-ui.png" height='47'/>
   <br>
   
   
   <h3>Dev Tools & Build Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vite,npm,docker,webpack" />
+  <img src="https://skillicons.dev/icons?i=vite,npm,pnpm,docker,webpack" />
     <img src="./images/clerk.png" height='47'/>
   <br>
 
@@ -226,15 +226,23 @@
   </tr>
   <tr>
 <td align="center">
-      <img src="https://skillicons.dev/icons?i=threejs" /><br>
-      <b>Three.js</b><br/>
-      3D web experiences with WebGL
-    </td>
-    <td align="center">
+  <img src="https://skillicons.dev/icons?i=threejs" /><br>
+  <b>Three.js</b><br/>
+  3D web experiences with WebGL
+</td>
+
+<td align="center">
   <img src="./images/shadcn-ui.png" height="50" alt="shadcn UI Logo" /><br/>
   <b>shadcn UI</b><br/>
   Component library built on top of Radix UI & Tailwind CSS
 </td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" alt="Material UI Logo" /><br/>
+  <b>Material UI</b><br/>
+  React components for faster web development
+</td>
+
 
   </tr>
 
@@ -292,6 +300,12 @@
     <b>NPM</b><br/>
     JavaScript package manager
   </td>
+  <td align="center">
+  <img src="https://skillicons.dev/icons?i=pnpm" width="50" /><br/>
+  <b>pnpm</b><br/>
+  Fast, disk space-efficient package manager
+</td>
+
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" /><br/>
     <b>Vite</b><br/>
