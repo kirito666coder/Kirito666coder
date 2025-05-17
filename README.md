@@ -141,11 +141,6 @@
       Intermediate level
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br/>
-      <b>Tailwind CSS</b><br/>
-      Preferred UI styling
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br/>
       <b>JavaScript</b><br/>
       Core language, confident
@@ -164,7 +159,7 @@
 
   <!-- Frameworks & Libraries Section -->
   <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Frameworks & Libraries</th>
+    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Frameworks</th>
   </tr>
   <tr>
     <td align="center">
@@ -199,11 +194,22 @@
     </td>
    
   </tr>
+ 
+  <!-- Libraries -->
+
+ <tr>
+    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Libraries</th>
+  </tr>
   <tr>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=threejs" /><br>
-      <b>Three.js</b><br/>
-      3D web experiences with WebGL
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br/>
+      <b>React</b><br/>
+      Used in 40+ projects
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br/>
+      <b>Tailwind CSS</b><br/>
+      Preferred UI styling
     </td>
     <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" /><br/>
@@ -215,30 +221,25 @@
   <b>Axios</b><br/>
   Promise-based HTTP client for the browser and Node.js
 </td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" /><br/>
-  <b>jQuery</b><br/>
-  Fast, small, and feature-rich JavaScript library
+ <td align="center">
+  <img src="./images/framer-motion.svg" width="50" alt="Framer Motion Icon" /><br/>
+  <b>Framer Motion</b><br/>
+  I use Framer Motion daily for smooth, interactive animations in React. 
 </td>
 <td align="center">
   <img src="https://skills-icons.vercel.app/api/icons?i=socketio" width="50" /><br/>
   <b>Socket.IO</b><br/>
   Real-time, bidirectional communication between web clients and servers
 </td>
-   <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" /><br/>
-  <b>Webpack</b><br/>
-  A static module bundler for JavaScript applications
-</td>
-
+ 
+   
   </tr>
   <tr>
-   <td align="center">
-  <img src="./images/framer-motion.svg" width="50" alt="Framer Motion Icon" /><br/>
-  <b>Framer Motion</b><br/>
-  I use Framer Motion daily for smooth, interactive animations in React. 
-</td>
-
+<td align="center">
+      <img src="https://skillicons.dev/icons?i=threejs" /><br>
+      <b>Three.js</b><br/>
+      3D web experiences with WebGL
+    </td>
   </tr>
 
   <!-- Databases Section -->
