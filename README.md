@@ -21,7 +21,7 @@
  <hr/>
 
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 
 <div align="center">
 
@@ -68,12 +68,12 @@
 </div>
 
 <br/>
+<br/>
+
+
 
 <details>
- <summary align="center"><b>TECH STACK</b></summary>
-
-## 🚀 Tech Stack
-
+ <summary align="center"><b> Tech Stack</b></summary>
 
 <table>
   <!-- Tools & Technologies Section -->
@@ -348,11 +348,10 @@
 </details>
 
 <hr/>
+<br/>
 
 <details>
- <summary align="center"><b>GITHUB STATS</b></summary>
-
-## ⚡ GitHub Stats
+ <summary align="center"><b>GitHub Stats</b></summary>
 
 <table>
   <tr>
@@ -407,7 +406,7 @@
 
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kirito666coder/Kirito666coder/output/github-contribution-grid-snake.svg" />
   
@@ -416,26 +415,58 @@
 </details>
 
 <hr/>
+<br/>
 
 
 <details>
  <summary align="center"><b>About</b></summary>
 
-<div align="center">
+<h3 align="center">🔚 In the End</h3>
 
-## 🔚 In the End
+```js
+class Kirito {
+  constructor() {
+    this.stack = ["MongoDB", "Express", "React", "Node.js"];
+    this.traits = ["Problem Solver", "Pixel Perfect", "Clean Coder"];
+    this.motto = "Eat. Sleep. Code. Repeat.";
+  }
 
-I'm **Kirito** — full-stack MERN developer.
+  think() {
+    return "Think deep. Build clean. Ship fast.";
+  }
 
-**Eat. Sleep. Code. Repeat.**  
-**Think deep. Build clean. Ship fast.**  
-**Pixels to logic — I do it all.**  
-**Not just a dev — a problem solver.**  
-**Code hard. Debug harder.**  
-**From idea to execution — I live the process.**  
-**Beyond MERN: Docker, CI/CD, REST, GraphQL, TypeScript, Angular, Django, MySQL — no limits.**
+  build() {
+    return "From idea to execution — I live the process.";
+  }
 
-</div>
+  code() {
+    return "Pixels to logic — I do it all.";
+  }
+
+  debug() {
+    return "Code hard. Debug harder.";
+  }
+
+  expandSkills() {
+    return [
+      "Docker",
+      "CI/CD",
+      "REST",
+      "GraphQL",
+      "TypeScript",
+      "Angular",
+      "Django",
+      "MySQL"
+    ];
+  }
+}
+
+const me = new Kirito();
+me.code();        // "Pixels to logic — I do it all."
+me.debug();       // "Code hard. Debug harder."
+me.expandSkills(); // [ ...no limits ]
+
+```
 
 </details>
 <hr/>
