@@ -270,22 +270,38 @@
       AI-based code editor
     </td>
   </tr>
-  <!-- Dev tools build tools -->
-  <tr>
+<!-- Dev tools build tools -->
+<tr>
   <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Dev Tools & Build Tools</th>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br/>
-      <b>Docker</b><br/>
-      Containerization tool
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" /><br/>
-      <b>NPM</b><br/>
-      JavaScript package manager
-    </td>
-  </tr>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" /><br/>
+    <b>NPM</b><br/>
+    JavaScript package manager
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" /><br/>
+    <b>Vite</b><br/>
+    Frontend build tool & dev server
+  </td>
+   <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br/>
+    <b>Docker</b><br/>
+    Containerization tool
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" /><br/>
+    <b>Webpack</b><br/>
+    Module bundler & build tool
+  </td>
+  <td align="center">
+    <img src="./images/clerk.png" width="50" alt="Clerk" /><br/>
+    <b>Clerk</b><br/>
+    Authentication & user management
+  </td>
+</tr>
+
 
   <!-- Cloud & Deployment-->
   <tr>
