@@ -47,7 +47,7 @@
   <br>
   
   
-  <h3>Dev Tools & Build Systems</h3>
+  <h3>Dev Tools & Build Tools</h3>
   <img src="https://skillicons.dev/icons?i=vite,docker,webpack,npm" />
     <img src="./images/clerk.png" height='47'/>
   <br>
@@ -157,16 +157,11 @@
     </td>
   </tr>
 
-  <!-- Frameworks & Libraries Section -->
+  <!-- Frameworks Section -->
   <tr>
     <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Frameworks</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br/>
-      <b>React</b><br/>
-      Used in 40+ projects
-    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /><br/>
       <b>Next.js</b><br/>
@@ -280,10 +275,16 @@
       AI-based code editor
     </td>
   </tr>
+  <!-- Dev tools build tools -->
   <tr>
-  <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Dev Tools</th>
+  <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Dev Tools & Build Tools</th>
   </tr>
   <tr>
+  <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br/>
+      <b>Docker</b><br/>
+      Containerization tool
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" /><br/>
       <b>NPM</b><br/>
@@ -305,6 +306,25 @@
       Query language for APIs
     </td>
   </tr>
+
+  <!-- Cloud & Deployment-->
+  <tr>
+    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Cloud & Deployment
+</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" /><br/>
+      <b>ChatGPT</b><br/>
+      AI Assistant for development
+    </td>
+    <td align="center">
+      <img src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" height="50" /><br/>
+      <b>Cursor</b><br/>
+      AI-based code editor
+    </td>
+  </tr>
+
 </table>
 
 </details>
