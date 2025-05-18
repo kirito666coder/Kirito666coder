@@ -488,5 +488,16 @@ me.expandSkills(); // [ ...no limits ]
 
 ```
 
+<details>
+ <summary ><b></b></summary>
+<div align="center">
+    <img src="./gifs/html.gif" width="100" />
+    <img src="./gifs/css.gif" width="100" />
+    <img src="./gifs/js.gif" width="90" />
+    <img src="./gifs/ts.gif" width="90" />
+    <img src="./gifs/py.gif" width="90" />
+ </div>  
+
+</details>
 </details>
 <hr/>
