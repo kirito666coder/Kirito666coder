@@ -45,7 +45,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="./images/react-router-dom.png" width=""  height='47'/>
   <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="./images/soket-io.png" width=""  height='47'/>
+  <img src="./images/framer-motion.svg" height='47'/>
+  <img src="./images/soket-io.png" height='47'/>
   <img src="https://skillicons.dev/icons?i=threejs,materialui" />
   <img src="./images/shadcn-ui.png" height='47'/>
   
