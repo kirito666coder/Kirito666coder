@@ -43,8 +43,10 @@
   <h3>Libraries & UI Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="./images/react-router-dom.png" width=""  height='47'/>
   <img src="https://skillicons.dev/icons?i=redux,threejs,materialui" />
   <img src="./images/shadcn-ui.png" height='47'/>
+  
   <br>
   
   
@@ -204,6 +206,11 @@
       Preferred UI styling
     </td>
     <td align="center">
+  <img src="./images/react-router.1024x559.png" width="50" alt="React Router Icon" /><br/>
+  <b>React Router DOM</b><br/>
+  Declarative routing for React apps – I use it to handle dynamic pages and navigation.
+</td>
+    <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" /><br/>
   <b>Redux</b><br/>
   State management for JavaScript apps
@@ -218,13 +225,14 @@
   <b>Framer Motion</b><br/>
   I use Framer Motion daily for smooth, interactive animations in React. 
 </td>
-<td align="center">
+  </tr>
+
+  <tr>
+  <td align="center">
   <img src="https://skills-icons.vercel.app/api/icons?i=socketio" width="50" /><br/>
   <b>Socket.IO</b><br/>
   Real-time, bidirectional communication between web clients and servers
 </td>
-  </tr>
-  <tr>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=threejs" /><br>
   <b>Three.js</b><br/>
