@@ -498,6 +498,7 @@ me.debug();       // "Code hard. Debug harder."
 me.expandSkills(); // [ ...no limits ]
 
 ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Thanks%20for%20scrolling%20this%20far%20&section=footer&fontAlignY=71&fontSize=40&fontColor=#fff&textBg=false&animation=twinkling&reversal=false"/>
 
 </details>
 <hr/>
