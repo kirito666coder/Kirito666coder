@@ -16,6 +16,9 @@
   <a href="mailto:kirito666coder@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="50" style="border-radius: 50%; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);"/>
   </a>
+  <a href="https://discord.com/users/1374810157560758312">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="50" style="border-radius: 50%; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);" />
+  </a>
 </p>
 
  <hr/>
