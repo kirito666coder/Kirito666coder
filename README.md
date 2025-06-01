@@ -49,6 +49,9 @@
   <img src="./images/react-router-dom.png" width=""  height='47'/>
   <img src="https://skillicons.dev/icons?i=redux" />
   <img src="./images/framer-motion.svg" height='47'/>
+  <img src="./images/passport-logo.png" height='47'/>
+  <img src="./images/oauth.png" height='47'/>
+  <img src="./images/jwt.png" height='47'/>
   <img src="./images/soket-io.png" height='47'/>
   <img src="https://skillicons.dev/icons?i=threejs,materialui" />
   <img src="./images/shadcn-ui.png" height='47'/>
@@ -234,6 +237,21 @@
   </tr>
 
   <tr>
+    <td align="center">
+    <img src="./images/jwt.png" width="50" alt="JWT Logo" /><br/>
+    <b>JWT</b><br/>
+    Secure token-based authentication for APIs
+  </td>
+  <td align="center">
+    <img src="./images/passport-logo.png" width="50" alt="Passport.js Logo" /><br/>
+    <b>Passport.js</b><br/>
+    Simple, modular authentication middleware for Node.js
+  </td>
+  <td align="center">
+    <img src="./images/oauth.png" width="50" alt="OAuth Logo" /><br/>
+    <b>OAuth</b><br/>
+    Authorization protocol for secure third-party access
+  </td>
   <td align="center">
   <img src="https://skills-icons.vercel.app/api/icons?i=socketio" width="50" /><br/>
   <b>Socket.IO</b><br/>
@@ -244,7 +262,9 @@
   <b>Three.js</b><br/>
   3D web experiences with WebGL
 </td>
+</tr>
 
+<tr>
 <td align="center">
   <img src="./images/shadcn-ui.png" height="50" alt="shadcn UI Logo" /><br/>
   <b>shadcn UI</b><br/>
@@ -256,7 +276,6 @@
   <b>Material UI</b><br/>
   React components for faster web development
 </td>
-
 
   </tr>
 
