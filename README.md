@@ -428,7 +428,7 @@
      <img width="100%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
     </td>
        <td width="50%">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kirito666coder&theme=radical&border_radius=10" />
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kirito666coder&theme=onedark&border_radius=10" />
         <br>
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kirito666coder&theme=react&border_radius=10" />
       </td>
