@@ -68,6 +68,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /><br>
 
   <h3>Cloud & Deployment</h3>
+  <img src="./images/Cloudinary.png" height='46' />
   <img src="https://skillicons.dev/icons?i=aws,vercel" /><br>
 
   <h3>Testing</h3>
@@ -367,6 +368,11 @@
   <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Cloud & Deployment</th>
 </tr>
 <tr>
+<td align="center">
+  <img src="./images/Cloudinary.png" width="55" /><br/>
+  <b>Cloudinary</b><br/>
+  Media management & image hosting
+</td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=aws" width="50" /><br/>
     <b>AWS</b><br/>
