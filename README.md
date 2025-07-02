@@ -29,7 +29,7 @@
 <div align="center">
 
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,figma,linux,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=windows,linux,vscode,github,git,nodejs,figma,postman" /><br>
 
   <h3>AI Tools</h3>
   <img height="47" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" /><br>
 
   <h3>Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,angular,nodejs,express,django" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,express,django" /><br>
 
   <h3>Libraries & UI Libraries</h3>
   <img src="https://skillicons.dev/icons?i=react" />
@@ -99,6 +99,11 @@
       <b>Windows</b><br/>
       Development on Windows OS
     </td>
+     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
+      <b>Linux</b><br/>
+      Preferred OS for development
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br/>
       <b>VS Code</b><br/>
@@ -115,6 +120,13 @@
       Actively pushing projects
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /><br/>
+      <b>Node.js</b><br/>
+      Building backend APIs
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" width="50" /><br/>
       <b>Figma</b><br/>
       Proficient in UI/UX designing
@@ -125,15 +137,7 @@
       API testing tool
     </td>
   </tr>
-  <tr>
-  <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
-      <b>Linux</b><br/>
-      Preferred OS for development
-    </td>
-    
-  </tr>
-  
+
   <!-- Programming Languages Section -->
   <tr>
     <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Programming Languages</th>
@@ -180,11 +184,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" /><br/>
       <b>Angular</b><br/>
       Component-based frontend framework
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /><br/>
-      <b>Node.js</b><br/>
-      Building backend APIs
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=express" /><br>
