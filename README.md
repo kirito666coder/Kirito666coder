@@ -39,12 +39,15 @@
   <br>
 
   <h3>Programming Languages</h3>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,ts,py&perline=15&t=dark" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" /><br>
 
   <h3>Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=nextjs,angular,express,django" /><br>
 
   <h3>Libraries & UI Libraries</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,threejs,materialUI&perline=15&t=dark" /><br>
+
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="./images/react-router-dom.png" width=""  height='47'/>
@@ -61,11 +64,15 @@
   
   
   <h3>Dev Tools & Build Tools</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm&perline=15&t=dark" />
+
   <img src="https://skillicons.dev/icons?i=vite,npm,pnpm,docker,webpack" />
     <img src="./images/clerk.png" height='47'/>
   <br>
 
   <h3>Databases</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mongo,mysql&perline=15&t=dark" />
+
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /><br>
 
   <h3>Cloud & Deployment</h3>
