@@ -35,14 +35,13 @@
   <h3>AI Tools</h3>
   <img height="47" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
   <img height="47" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" alt="Cursor" />
-    <img src="./images/pieces.png" height='47' />
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pieces&perline=15&t=dark" />
   <br>
 
   <h3>Programming Languages</h3>
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,ts,py&perline=15&t=dark" /><br>
 
   <h3>Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,angular,express,django" />
   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs,angular,express,django&perline=15&t=dark" />
   <br>
 
@@ -51,18 +50,15 @@
   <img src="./images/react-router-dom.png" width=""  height='47'/>
   <img src="./images/framer-motion.svg" height='47'/>
   <img src="./images/passport-logo.png" height='47'/>
-  <img src="./images/oauth.png" height='47'/>
   <img src="./images/jwt.png" height='47'/>
-  <img src="./images/soket-io.png" height='47'/>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=threejs,materialUI&perline=15&t=dark" />
-  <img src="./images/shadcn-ui.png" height='47'/>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
+ 
   
   <br>
   
   
   <h3>Dev Tools & Build Tools</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack&perline=15&t=dark" />
-    <img src="./images/clerk.png" height='47'/>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk&perline=15&t=dark" />
   <br>
 
   <h3>Databases</h3>
@@ -70,17 +66,13 @@
 <br>
 
   <h3>Cloud & Deployment</h3>
-  <img src="./images/Cloudinary.png" height='46' />
-   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=aws,vercel&perline=15&t=dark" />
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cloudinary,aws,vercel&perline=15&t=dark" />
  <br>
 
   <h3>Testing</h3>
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jest&perline=15&t=dark" />
   <br>
 
-  <h3>Mobile</h3>
- 
-  <img height="40" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" />
 
 </div>
 
