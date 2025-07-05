@@ -33,9 +33,7 @@
  <br>
 
   <h3>AI Tools</h3>
-  <img height="47" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
-  <img height="47" src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" alt="Cursor" />
-      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pieces&perline=15&t=dark" />
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chatgpt,cursorai,pieces&perline=15&t=dark" />
   <br>
 
   <h3>Programming Languages</h3>
@@ -48,10 +46,7 @@
   <h3>Libraries & UI Libraries</h3>
  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux&perline=15&t=dark" />
   <img src="./images/react-router-dom.png" width=""  height='47'/>
-  <img src="./images/framer-motion.svg" height='47'/>
-  <img src="./images/passport-logo.png" height='47'/>
-  <img src="./images/jwt.png" height='47'/>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=framermotion,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
  
   
   <br>
