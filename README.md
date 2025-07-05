@@ -44,13 +44,8 @@
   <br>
 
   <h3>Libraries & UI Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux&perline=15&t=dark" />
-  <img src="./images/react-router-dom.png" width=""  height='47'/>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=framermotion,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
- 
-  
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
   <br>
-  
   
   <h3>Dev Tools & Build Tools</h3>
  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk&perline=15&t=dark" />
@@ -206,7 +201,7 @@
       Preferred UI styling
     </td>
     <td align="center">
-  <img src="./images/react-router.1024x559.png" width="50" alt="React Router Icon" /><br/>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=reactrouter&perline=15&t=dark" /><br/>
   <b>React Router DOM</b><br/>
   Declarative routing for React apps – I use it to handle dynamic pages and navigation.
 </td>
@@ -221,7 +216,7 @@
   Promise-based HTTP client for the browser and Node.js
 </td>
  <td align="center">
-  <img src="./images/framer-motion.svg" width="50" alt="Framer Motion Icon" /><br/>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=framermotion&perline=15&t=dark" /><br/>
   <b>Framer Motion</b><br/>
   I use Framer Motion daily for smooth, interactive animations in React. 
 </td>
@@ -229,17 +224,17 @@
 
   <tr>
     <td align="center">
-    <img src="./images/jwt.png" width="50" alt="JWT Logo" /><br/>
+    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jwt&perline=15&t=dark" /><br/>
     <b>JWT</b><br/>
     Secure token-based authentication for APIs
   </td>
   <td align="center">
-    <img src="./images/passport-logo.png" width="50" alt="Passport.js Logo" /><br/>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=passportjs&perline=15&t=dark" /><br/>
     <b>Passport.js</b><br/>
     Simple, modular authentication middleware for Node.js
   </td>
   <td align="center">
-    <img src="./images/oauth.png" width="50" alt="OAuth Logo" /><br/>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=OAuth&perline=15&t=dark" /><br/>
     <b>OAuth</b><br/>
     Authorization protocol for secure third-party access
   </td>
@@ -257,7 +252,7 @@
 
 <tr>
 <td align="center">
-  <img src="./images/shadcn-ui.png" height="50" alt="shadcn UI Logo" /><br/>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=shadcn&perline=15&t=dark" /><br/>
   <b>shadcn UI</b><br/>
   Component library built on top of Radix UI & Tailwind CSS
 </td>
@@ -308,7 +303,7 @@
     AI-based code editor
   </td>
   <td align="center">
-    <img src="./images/pieces.png" height="50" alt="Pieces Logo" /><br/>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pieces&perline=15&t=dark" /><br/>
     <b>Pieces</b><br/>
     AI-powered dev assistant & workflow
   </td>
@@ -346,7 +341,7 @@
     Module bundler & build tool
   </td>
   <td align="center">
-    <img src="./images/clerk.png" width="50" alt="Clerk" /><br/>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=clerk&perline=15&t=dark" /><br/>
     <b>Clerk</b><br/>
     Authentication & user management
   </td>
@@ -359,7 +354,7 @@
 </tr>
 <tr>
 <td align="center">
-  <img src="./images/Cloudinary.png" width="55" /><br/>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cloudinary&perline=15&t=dark" /><br/>
   <b>Cloudinary</b><br/>
   Media management & image hosting
 </td>
