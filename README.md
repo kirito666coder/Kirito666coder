@@ -29,8 +29,7 @@
 <div align="center">
 
   <h3>Tools</h3>
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=windows,Linux,vsCode,github,git,node,figma,postman&perline=15&t=dark
-" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=windows,Linux,vsCode,github,git,node,figma,postman&perline=15&t=dark" />
   <img src="https://skillicons.dev/icons?i=windows,linux,vscode,github,git,nodejs,figma,postman" /><br>
 
   <h3>AI Tools</h3>
