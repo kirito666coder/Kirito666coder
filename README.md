@@ -30,7 +30,7 @@
 
   <h3>Tools</h3>
   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=windows,Linux,vsCode,github,git,node,figma,postman&perline=15&t=dark" />
-  <img src="https://skillicons.dev/icons?i=windows,linux,vscode,github,git,nodejs,figma,postman" /><br>
+ <br>
 
   <h3>AI Tools</h3>
   <img height="47" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" />
@@ -40,47 +40,43 @@
 
   <h3>Programming Languages</h3>
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,ts,py&perline=15&t=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" /><br>
 
   <h3>Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,angular,express,django" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,express,django" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs,angular,express,django&perline=15&t=dark" />
+  <br>
 
   <h3>Libraries & UI Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,threejs,materialUI&perline=15&t=dark" /><br>
-
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux&perline=15&t=dark" />
   <img src="./images/react-router-dom.png" width=""  height='47'/>
-  <img src="https://skillicons.dev/icons?i=redux" />
   <img src="./images/framer-motion.svg" height='47'/>
   <img src="./images/passport-logo.png" height='47'/>
   <img src="./images/oauth.png" height='47'/>
   <img src="./images/jwt.png" height='47'/>
   <img src="./images/soket-io.png" height='47'/>
-  <img src="https://skillicons.dev/icons?i=threejs,materialui" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=threejs,materialUI&perline=15&t=dark" />
   <img src="./images/shadcn-ui.png" height='47'/>
   
   <br>
   
   
   <h3>Dev Tools & Build Tools</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm&perline=15&t=dark" />
-
-  <img src="https://skillicons.dev/icons?i=vite,npm,pnpm,docker,webpack" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack&perline=15&t=dark" />
     <img src="./images/clerk.png" height='47'/>
   <br>
 
   <h3>Databases</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mongo,mysql&perline=15&t=dark" />
-
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /><br>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mongo,mysql,redis&perline=15&t=dark" />
+<br>
 
   <h3>Cloud & Deployment</h3>
   <img src="./images/Cloudinary.png" height='46' />
-  <img src="https://skillicons.dev/icons?i=aws,vercel" /><br>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=aws,vercel&perline=15&t=dark" />
+ <br>
 
   <h3>Testing</h3>
-  <img src="https://skillicons.dev/icons?i=jest" /><br>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jest&perline=15&t=dark" />
+  <br>
 
   <h3>Mobile</h3>
  
@@ -123,7 +119,7 @@
       Confident with version control
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" /><br>
+     <img src="https://skill-icons-snowy.vercel.app/api/icons?i=github&perline=15&t=dark" /><br>
       <b>GitHub</b><br/>
       Actively pushing projects
     </td>
@@ -135,7 +131,7 @@
   </tr>
   <tr>
       <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="50" /><br/>
+    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=figma&perline=15&t=dark" /><br/>
       <b>Figma</b><br/>
       Proficient in UI/UX designing
     </td>
@@ -194,7 +190,7 @@
       Component-based frontend framework
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" /><br>
+     <img src="https://skill-icons-snowy.vercel.app/api/icons?i=express&perline=15&t=dark" /><br>
       <b>Express</b><br/>
       Used in MERN projects
     </td>
@@ -266,7 +262,7 @@
   Real-time, bidirectional communication between web clients and servers
 </td>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=threejs" /><br>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=threejs&perline=15&t=dark" /><br>
   <b>Three.js</b><br/>
   3D web experiences with WebGL
 </td>
@@ -342,7 +338,7 @@
     JavaScript package manager
   </td>
   <td align="center">
-  <img src="https://skillicons.dev/icons?i=pnpm" width="50" /><br/>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pnpm&perline=15&t=dark" /><br/>
   <b>pnpm</b><br/>
   Fast, disk space-efficient package manager
 </td>
@@ -381,12 +377,12 @@
   Media management & image hosting
 </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=aws" width="50" /><br/>
+    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=aws&perline=15&t=dark" /><br/>
     <b>AWS</b><br/>
     Cloud computing platform
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" /><br/>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vercel&perline=15&t=dark" /><br/>
     <b>Vercel</b><br/>
     Frontend deployment platform
   </td>
