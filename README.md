@@ -44,7 +44,7 @@
   <br>
 
   <h3>Libraries & UI Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
   <br>
   
   <h3>Dev Tools & Build Tools</h3>
@@ -221,6 +221,18 @@
   I use Framer Motion daily for smooth, interactive animations in React. 
 </td>
   </tr>
+  <tr>
+  <td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=gsap&perline=15&t=dark" /><br/>
+  <b>GSAP</b><br/>
+  Powerful animation library for modern web interfaces
+</td>
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=threejs&perline=15&t=dark" /><br>
+  <b>Three.js</b><br/>
+  3D web experiences with WebGL
+</td>
+  </tr>
 
   <tr>
     <td align="center">
@@ -242,11 +254,6 @@
   <img src="https://skills-icons.vercel.app/api/icons?i=socketio" width="50" /><br/>
   <b>Socket.IO</b><br/>
   Real-time, bidirectional communication between web clients and servers
-</td>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=threejs&perline=15&t=dark" /><br>
-  <b>Three.js</b><br/>
-  3D web experiences with WebGL
 </td>
 </tr>
 
