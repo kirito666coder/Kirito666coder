@@ -522,5 +522,3 @@ me.expandSkills(); // [ ...no limits ]
 
 </details>
 <hr/>
-
-![Total LOC](https://img.shields.io/endpoint?url=https://Kirito666codr.github.io/total-loc-badge/loc-badge.json)
