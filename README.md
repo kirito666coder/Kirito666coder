@@ -523,4 +523,4 @@ me.expandSkills(); // [ ...no limits ]
 </details>
 <hr/>
 
-![Total Lines of Code](https://img.shields.io/endpoint?url=https://Kirito666codr.github.io/total-loc-badge/loc-badge.json)
+![Total LOC](https://img.shields.io/endpoint?url=https://Kirito666codr.github.io/total-loc-badge/loc-badge.json)

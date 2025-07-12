@@ -15,15 +15,11 @@ jobs:
     - name: Install dependencies
       run: sudo apt-get update && sudo apt-get install -y cloc jq gh
 
-    - name: Setup GitHub CLI
-      uses: cli/cli-action@v2
-      with:
-        github_token: ${{ secrets.GH_PAT  }}
-
-    - name: Clone and count LOC
+    - name: Clone all public repos and count LOC
       run: |
         mkdir repos || true
-        gh repo list Kirito666codr --limit 100 --json nameWithOwner,isFork,visibility -q '.[] | select(.isFork==false and .visibility=="public") | .nameWithOwner' > repos.txt
+        gh repo list Kirito666codr --limit 100 --json nameWithOwner,isFork,visibility \
+          -q '.[] | select(.isFork==false and .visibility=="public") | .nameWithOwner' > repos.txt
 
         echo "Counting lines..."
         TOTAL=0
@@ -42,5 +38,5 @@ jobs:
     - name: Upload badge to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GH_PAT  }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./badge
