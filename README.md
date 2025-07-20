@@ -399,22 +399,6 @@
 <details>
  <summary align="center"><b>GitHub Stats</b></summary>
 
-<table>
-  <tr>
-    <td align="center"><strong>GitHub Streak</strong></td>
-    <td align="center"><strong>LeedCode Stats</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img width="100%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/kirito666?theme=dark&ext=contest" />
-    </td>
-  </tr>
-</table>
-
-
  <table>
   <tr>
     <td align="center"><strong>Github Stats</strong></td>
@@ -432,6 +416,20 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center"><strong>GitHub Streak</strong></td>
+    <td align="center"><strong>LeedCode Stats</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+     <img width="100%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/kirito666?theme=nord&font=milonga&ext=contest" />
+    </td>
+  </tr>
+</table>
 
  <table>
   <tr>
