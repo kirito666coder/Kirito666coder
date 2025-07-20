@@ -401,29 +401,28 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Private Stats</strong></td>
-    <td align="center"><strong>Public Stats</strong></td>
+    <td align="center"><strong>GitHub Streak</strong></td>
+    <td align="center"><strong>LeedCode Stats</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-nu-umber.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&show_rank=true&border_radius=10" />
+     <img width="100%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kirito666coder&show_icons=true&theme=react&show_rank=true&border_radius=10" />
+      <img src="https://leetcard.jacoblin.cool/kirito666?theme=dark&ext=contest" />
     </td>
   </tr>
 </table>
 
 
-
  <table>
   <tr>
-    <td align="center"><strong>GitHub Streak</strong></td>
+    <td align="center"><strong>Github Stats</strong></td>
     <td align="center"><strong>Graph</strong></td>
   </tr>
   <tr>
     <td align="center">
-     <img width="100%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
+      <img src="https://github-readme-stats-nu-umber.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&show_rank=true&border_radius=10" />
     </td>
        <td width="50%">
         <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kirito666coder&theme=onedark&border_radius=10" />
