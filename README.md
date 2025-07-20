@@ -422,11 +422,13 @@
     <td align="center"><strong>LeedCode Stats</strong></td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
      <img width="100%" src="https://github-readme-streak-stats-kirito666coder.vercel.app?user=Kirito666coder&theme=react&border_radius=20" alt="GitHub Streak" />
+      <i> My Contributions </i>
+       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kirito666coder/Kirito666coder/output/github-contribution-grid-snake-dark.svg" />
     </td>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/kirito666?theme=nord&font=milonga&ext=contest" />
+      <img width="100%" src="https://leetcard.jacoblin.cool/kirito666?theme=nord&font=milonga&ext=heatmap" />
     </td>
   </tr>
 </table>
