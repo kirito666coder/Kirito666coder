@@ -44,7 +44,7 @@
   <br>
 
   <h3>Libraries & UI Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn,skiperui&perline=15&t=dark" />
   <br>
   
   <h3>Dev Tools & Build Tools</h3>
@@ -263,7 +263,12 @@
   <b>shadcn UI</b><br/>
   Component library built on top of Radix UI & Tailwind CSS
 </td>
-
+<td align="center">
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=skiperui&perline=15&t=dark" /><br/>
+  <br/>
+  <b>Skiper UI</b><br/>
+  Beautiful, customizable React component library for modern dashboards
+</td>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" alt="Material UI Logo" /><br/>
   <b>Material UI</b><br/>
