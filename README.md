@@ -43,8 +43,12 @@
   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs,angular,express,django&perline=15&t=dark" />
   <br>
 
-  <h3>Libraries & UI Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,soketio,threejs,materialUI,shadcn,skiperui&perline=15&t=dark" />
+  <h3>Libraries</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,soketio,threejs&perline=15&t=dark" />
+  <br>
+
+  <h3>UI Libraries</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=materialUI,shadcn,skiperui,chakraui,heroui,mantineui&perline=15&t=dark" />
   <br>
   
   <h3>Dev Tools & Build Tools</h3>
@@ -258,6 +262,9 @@
 </tr>
 
 <tr>
+<th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">UI Libraries</th>
+</tr>
+<tr>
 <td align="center">
  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=shadcn&perline=15&t=dark" /><br/>
   <b>shadcn UI</b><br/>
@@ -274,7 +281,21 @@
   <b>Material UI</b><br/>
   React components for faster web development
 </td>
-
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chakraui&perline=15&t=dark" /><br/>
+  <b>Chakra UI</b><br/>
+  Accessible, modular, and themeable React component library
+</td>
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=heroui&perline=15&t=dark" /><br/>
+  <b>Hero UI</b><br/>
+  Modern, customizable UI kit for React applications
+</td>
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mantineui&perline=15&t=dark" /><br/>
+  <b>Mantine UI</b><br/>
+  Fully featured React component library with hooks and theming
+</td>
   </tr>
 
   <!-- Databases Section -->
