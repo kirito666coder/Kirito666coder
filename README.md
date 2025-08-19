@@ -1,6 +1,14 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hi+There!;+I'm+Kirito!;" />
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hi+There!;+I'm+Kirito!;" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=000000&lines=Hi+There!;+I'm+Kirito!;" />
+    <!-- Fallback -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=000000&lines=Hi+There!;+I'm+Kirito!;" />
+  </picture>
 </h1>
+
 
 <h1 align="center">
 <img align="center"  src="https://count.getloli.com/get/@:kirito666codr?theme=booru-lewd" />
