@@ -499,7 +499,7 @@
       <tbody align="center">
         <tr>
           <td style="border: 1px solid">
-            <a href="https://k72-k2rxyju1a-kirito666coders-projects.vercel.app">
+            <a href="https://k72-theta.vercel.app/">
               <img src="./images//k72.png" width="200">
             </a>
           </td>
