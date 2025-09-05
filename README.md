@@ -488,6 +488,28 @@
 <hr/>
 <br/>
 
+<details>
+ <summary align="center"><b>Project</b></summary>
+<table align="center" style="border: 1px solid">
+      <thead align="center">
+        <tr align="center">
+          <th align="center" style="border: 1px solid">K72</th>
+        </tr>
+      </thead>
+      <tbody align="center">
+        <tr>
+          <td style="border: 1px solid">
+            <a href="https://k72-k2rxyju1a-kirito666coders-projects.vercel.app">
+              <img src="./images//k72.png" width="200">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+</details>
+
+<hr/>
+<br/>
 
 <details>
  <summary align="center"><b>About Me</b></summary>
