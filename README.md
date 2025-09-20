@@ -56,11 +56,11 @@
   <br>
 
   <h3>UI Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=materialUI,shadcn,skiperui,chakraui,heroui,mantineui&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=materialUI,shadcn,skiperui,chakraui,heroui,mantineui,magicui&perline=15&t=dark" />
   <br>
   
   <h3>Dev Tools & Build Tools</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk,prismic&perline=15&t=dark" />
   <br>
 
   <h3>Databases</h3>
@@ -68,7 +68,7 @@
 <br>
 
   <h3>Cloud & Deployment</h3>
-   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cloudinary,aws,vercel&perline=15&t=dark" />
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cloudinary,aws,vercel,netlify&perline=15&t=dark" />
  <br>
 
   <h3>Testing</h3>
@@ -494,13 +494,19 @@
       <thead align="center">
         <tr align="center">
           <th align="center" style="border: 1px solid">K72</th>
+          <th align="center" style="border: 1px solid">Suburbia</th>
         </tr>
       </thead>
       <tbody align="center">
         <tr>
           <td style="border: 1px solid">
             <a href="https://k72-theta.vercel.app/">
-              <img src="./images//k72.png" width="200">
+              <img src="./images/k72.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://cerulean-semifreddo-a49298.netlify.app/">
+              <img src="./images/suburbia.png" width="200">
             </a>
           </td>
         </tr>
