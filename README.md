@@ -511,6 +511,20 @@
           </td>
         </tr>
       </tbody>
+       <tfoot align="center">
+    <tr>
+      <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/k72.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/suburrbia.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+    </tr>
+  </tfoot>
     </table>
 </details>
 
