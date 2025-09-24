@@ -305,6 +305,14 @@
   Fully featured React component library with hooks and theming
 </td>
   </tr>
+  <tr>
+  <td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=magicui&perline=15&t=dark" /><br/>
+  <b>Magic UI</b><br/>
+  Animated React + Tailwind component library for designing interactive UIs
+</td>
+
+  </tr>
 
   <!-- Databases Section -->
   <tr>
@@ -387,6 +395,14 @@
     Authentication & user management
   </td>
 </tr>
+<tr>
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=prismic&perline=15&t=dark" /><br/>
+  <b>Prismic</b><br/>
+  Headless CMS for flexible content creation and management
+</td>
+
+</tr>
 
 
  <!-- Cloud & Deployment-->
@@ -409,6 +425,11 @@
     <b>Vercel</b><br/>
     Frontend deployment platform
   </td>
+  <td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=netlify&perline=15&t=dark" /><br/>
+  <b>Netlify</b><br/>
+  Web app hosting
+</td>
 </tr>
 
 <!-- Testing -->
