@@ -517,6 +517,7 @@
           <th align="center" style="border: 1px solid">K72</th>
           <th align="center" style="border: 1px solid">Suburbia</th>
           <th align="center" style="border: 1px solid">zentry</th>
+          <th align="center" style="border: 1px solid">mojito</th>
         </tr>
       </thead>
       <tbody align="center">
@@ -536,6 +537,11 @@
               <img src="./images/zentry.png" width="200">
             </a>
           </td>
+          <td style="border: 1px solid">
+            <a href="https://mojito-cocktail-seven.vercel.app/">
+              <img src="./images/mojito.png" width="200">
+            </a>
+          </td>
         </tr>
       </tbody>
        <tfoot align="center">
@@ -552,6 +558,11 @@
       </td>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/zentry.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/mojito-cocktail.git" target="_blank" rel="noopener noreferrer">
           Repository
         </a>
       </td>
