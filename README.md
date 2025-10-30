@@ -518,6 +518,7 @@
           <th align="center" style="border: 1px solid">Suburbia</th>
           <th align="center" style="border: 1px solid">zentry</th>
           <th align="center" style="border: 1px solid">mojito</th>
+          <th align="center" style="border: 1px solid">macBook</th>
         </tr>
       </thead>
       <tbody align="center">
@@ -542,6 +543,11 @@
               <img src="./images/mojito.png" width="200">
             </a>
           </td>
+          <td style="border: 1px solid">
+            <a href="https://apple-website-omega-teal.vercel.app/">
+              <img src="./images/macbook.png" width="200">
+            </a>
+          </td>
         </tr>
       </tbody>
        <tfoot align="center">
@@ -563,6 +569,11 @@
       </td>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/mojito-cocktail.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+      <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/apple-website.git" target="_blank" rel="noopener noreferrer">
           Repository
         </a>
       </td>
