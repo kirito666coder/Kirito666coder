@@ -52,7 +52,7 @@
   <br>
 
   <h3>Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,soketio,threejs&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,zustand,zod,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,authjs,soketio,threejs&perline=15&t=dark" />
   <br>
 
   <h3>UI Libraries</h3>
