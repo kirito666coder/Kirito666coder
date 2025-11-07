@@ -60,7 +60,7 @@
   <br>
   
   <h3>Dev Tools & Build Tools</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk,prismic&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk,prismic,sanity,stripe&perline=15&t=dark" />
   <br>
 
   <h3>Databases</h3>
