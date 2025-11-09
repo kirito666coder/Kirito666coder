@@ -235,6 +235,18 @@
   </tr>
   <tr>
   <td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=zod&perline=15&t=dark" width="50" /><br/>
+  <b>Zod</b><br/>
+  Type-safe schema validation for TypeScript
+</td>
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=zustand&perline=15&t=dark" width="50" /><br/>
+  <b>Zustand</b><br/>
+  Fast and scalable state management for React
+</td>
+  </tr>
+  <tr>
+  <td align="center">
   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=gsap&perline=15&t=dark" /><br/>
   <b>GSAP</b><br/>
   Powerful animation library for modern web interfaces
@@ -262,6 +274,11 @@
     <b>OAuth</b><br/>
     Authorization protocol for secure third-party access
   </td>
+  <td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=authjs&perline=15&t=dark" width="50" /><br/>
+  <b>Auth.js</b><br/>
+  Authentication for modern web apps with Next.js and more
+</td>
   <td align="center">
   <img src="https://skills-icons.vercel.app/api/icons?i=socketio" width="50" /><br/>
   <b>Socket.IO</b><br/>
@@ -401,7 +418,17 @@
   <b>Prismic</b><br/>
   Headless CMS for flexible content creation and management
 </td>
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=sanity&perline=15&t=dark" width="50" /><br/>
+  <b>Sanity</b><br/>
+  Headless CMS for structured content and APIs
+</td>
 
+<td align="center">
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=stripe&perline=15&t=dark" width="50" /><br/>
+  <b>Stripe</b><br/>
+  Payments infrastructure for the internet
+</td>
 </tr>
 
 
