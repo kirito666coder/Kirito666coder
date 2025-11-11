@@ -620,52 +620,20 @@
     <img src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
  </div>  
 
+I'm a self-taught **Full-Stack Developer** with a passion for crafting seamless, scalable, and visually engaging web experiences.  
+Driven by curiosity and a love for building, I focus on creating efficient backends and dynamic, user-friendly frontends.
+
+### What I Do
+I work with modern technologies like **Next.js**, **Express**, **React**, **Tailwind**, and **MongoDB**, building projects that balance clean design with solid functionality.  
+I enjoy exploring **AI-powered tools** and modern development workflows to push the boundaries of what’s possible on the web.
+
+### My Approach
+I believe great software comes from a mix of curiosity, discipline, and creativity. Every project is a chance to learn something new — whether it’s refining performance, improving UX, or integrating advanced features.
+
+### Current Focus
+Currently refining my skills in **AI-driven web development** and exploring the next generation of **DevTools** to build faster, smarter, and more efficiently.
  
 
-```js
-class Kirito {
-  constructor() {
-    this.stack = ["MongoDB", "Express", "React", "Node.js"];
-    this.traits = ["Problem Solver", "Pixel Perfect", "Clean Coder"];
-    this.motto = "Eat. Sleep. Code. Repeat.";
-  }
-
-  think() {
-    return "Think deep. Build clean. Ship fast.";
-  }
-
-  build() {
-    return "From idea to execution — I live the process.";
-  }
-
-  code() {
-    return "Pixels to logic — I do it all.";
-  }
-
-  debug() {
-    return "Code hard. Debug harder.";
-  }
-
-  expandSkills() {
-    return [
-      "Docker",
-      "CI/CD",
-      "REST",
-      "GraphQL",
-      "TypeScript",
-      "Angular",
-      "Django",
-      "MySQL"
-    ];
-  }
-}
-
-const me = new Kirito();
-me.code();        // "Pixels to logic — I do it all."
-me.debug();       // "Code hard. Debug harder."
-me.expandSkills(); // [ ...no limits ]
-
-```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Thanks%20for%20scrolling%20this%20far%20&section=footer&fontAlignY=71&fontSize=40&fontColor=#fff&textBg=false&animation=twinkling&reversal=false"/>
 
 
