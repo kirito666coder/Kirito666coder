@@ -48,7 +48,7 @@
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,ts,py&perline=15&t=dark" /><br>
 
   <h3>Frameworks</h3>
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs,angular,express,django&perline=15&t=dark" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs,express&perline=15&t=dark" />
   <br>
 
   <h3>Libraries</h3>
