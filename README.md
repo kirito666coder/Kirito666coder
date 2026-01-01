@@ -9,14 +9,13 @@
   </picture>
 </h1>
 
-
 <h1 align="center">
 <img align="center"  src="https://count.getloli.com/get/@:kirito666codr?theme=booru-lewd" />
 </h1>
 
  <div align="center">
     <img src="https://media1.tenor.com/m/hN72mRghidIAAAAd/douma-upper-moon.gif" width="200" />
- </div>     
+ </div>
 
 <br/>
 
@@ -31,7 +30,6 @@
 
  <hr/>
 
- 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
 <div align="center">
@@ -75,13 +73,10 @@
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jest&perline=15&t=dark" />
   <br>
 
-
 </div>
 
 <br/>
 <br/>
-
-
 
 <details>
  <summary align="center"><b> Tech Stack</b></summary>
@@ -431,7 +426,6 @@
 </td>
 </tr>
 
-
  <!-- Cloud & Deployment-->
 <tr>
   <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Cloud & Deployment</th>
@@ -546,33 +540,45 @@
           <th align="center" style="border: 1px solid">zentry</th>
           <th align="center" style="border: 1px solid">mojito</th>
           <th align="center" style="border: 1px solid">macBook</th>
+          <th align="center" style="border: 1px solid">spylt</th>
         </tr>
       </thead>
       <tbody align="center">
         <tr>
           <td style="border: 1px solid">
-            <a href="https://k72-theta.vercel.app/">
+            <a href="https://k72-theta.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
               <img src="./images/k72.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://cerulean-semifreddo-a49298.netlify.app/">
+            <a href="https://cerulean-semifreddo-a49298.netlify.app/" target="_blank"
+    rel="noopener noreferrer">
               <img src="./images/suburbia.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://zentry-kappa-jet.vercel.app/">
+            <a href="https://zentry-kappa-jet.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
               <img src="./images/zentry.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://mojito-cocktail-seven.vercel.app/">
+            <a href="https://mojito-cocktail-seven.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
               <img src="./images/mojito.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://apple-website-omega-teal.vercel.app/">
+            <a href="https://apple-website-omega-teal.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
               <img src="./images/macbook.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://spylt-1pvi.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/spylt.png" width="200">
             </a>
           </td>
         </tr>
@@ -604,6 +610,11 @@
           Repository
         </a>
       </td>
+      <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/spylt.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
     </tr>
   </tfoot>
     </table>
@@ -615,27 +626,27 @@
 <details>
  <summary align="center"><b>About Me</b></summary>
 
-
  <div align="center">
     <img src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
- </div>  
+ </div>
 
 I'm a self-taught **Full-Stack Developer** with a passion for crafting seamless, scalable, and visually engaging web experiences.  
 Driven by curiosity and a love for building, I focus on creating efficient backends and dynamic, user-friendly frontends.
 
 ### What I Do
+
 I work with modern technologies like **Next.js**, **Express**, **React**, **Tailwind**, and **MongoDB**, building projects that balance clean design with solid functionality.  
 I enjoy exploring **AI-powered tools** and modern development workflows to push the boundaries of what’s possible on the web.
 
 ### My Approach
+
 I believe great software comes from a mix of curiosity, discipline, and creativity. Every project is a chance to learn something new — whether it’s refining performance, improving UX, or integrating advanced features.
 
 ### Current Focus
+
 Currently refining my skills in **AI-driven web development** and exploring the next generation of **DevTools** to build faster, smarter, and more efficiently.
- 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Thanks%20for%20scrolling%20this%20far%20&section=footer&fontAlignY=71&fontSize=40&fontColor=#fff&textBg=false&animation=twinkling&reversal=false"/>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirito666coder/kirito666coder/output/pacman-contribution-graph-dark.svg">
