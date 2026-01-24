@@ -34,36 +34,57 @@
 
 <div align="center">
 
+  <h3>OS</h3>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=windows,Ubuntu&perline=15&t=dark" />
+ <br>
+
+  <h3>IDE</h3>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vsCode,cursorai,androidstudio&perline=15&t=dark" />
+ <br>
+
   <h3>Tools</h3>
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=windows,Linux,vsCode,github,git,node,figma,postman&perline=15&t=dark" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=github,figma,postman&perline=15&t=dark" />
  <br>
 
   <h3>AI Tools</h3>
-      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chatgpt,cursorai,pieces&perline=15&t=dark" />
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chatgpt,claude,pieces&perline=15&t=dark" />
   <br>
 
   <h3>Programming Languages</h3>
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=html,css,js,ts,py&perline=15&t=dark" /><br>
 
-  <h3>Frameworks</h3>
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs,express&perline=15&t=dark" />
+  <h3>Frontend Frameworks</h3>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs&perline=15&t=dark" />
   <br>
 
-  <h3>Libraries</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,zustand,zod,reactrouter,framermotion,gsap,passportjs,jwt,OAuth,authjs,soketio,threejs&perline=15&t=dark" />
+  <h3>Frontend Libraries</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,zustand,reactrouter,framermotion,gsap,threejs&perline=15&t=dark" />
   <br>
+
 
   <h3>UI Libraries</h3>
  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=materialUI,shadcn,skiperui,chakraui,heroui,mantineui,magicui&perline=15&t=dark" />
   <br>
   
-  <h3>Dev Tools & Build Tools</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk,prismic,sanity,stripe&perline=15&t=dark" />
+  <h3>Backend Frameworks</h3>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=express&perline=15&t=dark" />
+  <br>
+
+  <h3>Backend Libraries</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=zod,passportjs,jwt,OAuth,authjs,soketio&perline=15&t=dark" />
   <br>
 
   <h3>Databases</h3>
  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mongo,mysql,redis&perline=15&t=dark" />
 <br>
+
+  <h3>Dev Stack Utilities</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,clerk,prismic,sanity,stripe&perline=15&t=dark" />
+  <br>
+
+  <h3>Dev Ops</h3>
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=docker,kubernetes,jenkins&perline=15&t=dark" />
+  <br>
 
   <h3>Cloud & Deployment</h3>
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cloudinary,aws,vercel,netlify&perline=15&t=dark" />
@@ -71,6 +92,14 @@
 
   <h3>Testing</h3>
    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jest&perline=15&t=dark" />
+  <br>
+
+  <h3>Mobile</h3>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=reactnative,expo&perline=15&t=dark" />
+  <br>
+
+  <h3>Mobile Libraries</h3>
+   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nativewind&perline=15&t=dark" />
   <br>
 
 </div>
