@@ -647,6 +647,32 @@
     </tr>
   </tfoot>
     </table>
+<table align="center" style="border: 1px solid">
+      <thead align="center">
+        <tr align="center">
+          <th align="center" style="border: 1px solid">Dog Studio</th>
+        </tr>
+      </thead>
+      <tbody align="center">
+        <tr>
+          <td style="border: 1px solid">
+            <a href="https://dogstudio-c.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/dogstudio.png" width="200">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+       <tfoot align="center">
+    <tr>
+      <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/dogstudio-c.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+    </tr>
+  </tfoot>
+    </table>
 </details>
 
 <hr/>
