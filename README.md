@@ -562,8 +562,9 @@
 <details>
  <summary align="center"><b>Project</b></summary>
 
-<a><---Old</a>
+<h3 align="center">Website</h3>
 
+<a><---Old</a>
 <table align="center" style="border: 1px solid">
       <thead align="center">
         <tr align="center">
@@ -572,7 +573,6 @@
           <th align="center" style="border: 1px solid">zentry</th>
           <th align="center" style="border: 1px solid">mojito</th>
           <th align="center" style="border: 1px solid">macBook</th>
-          <th align="center" style="border: 1px solid">spylt</th>
         </tr>
       </thead>
       <tbody align="center">
@@ -607,12 +607,6 @@
               <img src="./images/macbook.png" width="200">
             </a>
           </td>
-          <td style="border: 1px solid">
-            <a href="https://spylt-1pvi.vercel.app/" target="_blank"
-    rel="noopener noreferrer">
-              <img src="./images/spylt.png" width="200">
-            </a>
-          </td>
         </tr>
       </tbody>
        <tfoot align="center">
@@ -642,11 +636,6 @@
           Repository
         </a>
       </td>
-      <td style="border: 1px solid">
-        <a href="https://github.com/kirito666coder/spylt.git" target="_blank" rel="noopener noreferrer">
-          Repository
-        </a>
-      </td>
     </tr>
   </tfoot>
     </table>
@@ -654,6 +643,7 @@
       <thead align="center">
         <tr align="center">
           <th align="center" style="border: 1px solid">Dog Studio</th>
+          <th align="center" style="border: 1px solid">spylt</th>
         </tr>
       </thead>
       <tbody align="center">
@@ -662,6 +652,12 @@
             <a href="https://dogstudio-c.vercel.app/" target="_blank"
     rel="noopener noreferrer">
               <img src="./images/dogstudio.png" width="200">
+            </a>
+          </td>
+           <td style="border: 1px solid">
+            <a href="https://spylt-1pvi.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/spylt.png" width="200">
             </a>
           </td>
         </tr>
@@ -673,10 +669,67 @@
           Repository
         </a>
       </td>
+            <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/spylt.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
     </tr>
   </tfoot>
     </table>
    <div align="right"><a>New ---></a></div>
+
+   <hr/>
+
+
+<h3 align="center">Application</h3>
+
+   <div><a><--- Old</a></div>
+<table align="center">
+<tr>
+
+<!-- FIRST APP CARD -->
+<td align="center">
+
+<table border="1" cellpadding="10">
+<tr>
+<td align="center">
+
+<h2>🎬 RnMovies</h2>
+
+<h4>A React Native Movie App</h4>
+
+<table align="center" border="1" cellpadding="8">
+<tr>
+
+<td align="center">
+<a href="https://github.com/kirito666coder/rn-movie-app">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/kirito666coder/rn-movie-app/releases/download/v1.1.0/movie-app-v1.1.0.apk">
+  <img src="https://img.shields.io/badge/Download_APK-34A853?style=for-the-badge&logo=android">
+</a>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<!-- SECOND APP CARD -->
+
+
+</tr>
+</table>
+  <div align="right"><a>New ---></a></div>
 
 </details>
 
