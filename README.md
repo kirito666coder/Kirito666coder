@@ -685,50 +685,41 @@
 <h3 align="center">Application</h3>
 
    <div><a><--- Old</a></div>
-<table align="center">
-<tr>
+   <table align="center" border="1">
 
-<!-- FIRST APP CARD -->
-<td align="center">
+<thead align="center">
+  <tr>
+    <th align="center">RnMovies</th>
+  </tr>
+</thead>
 
-<table border="1" cellpadding="10">
-<tr>
-<td align="center">
+<tbody align="center">
+  <tr>
+    <!-- FIRST APP -->
+    <td>
+      <p>A React Native Movie Application</p>
+      <table align="center">
+        <tr>
+          <td>
+            <a href="https://github.com/kirito666coder/rn-movie-app">
+              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/kirito666coder/rn-movie-app/releases/download/v1.1.0/movie-app-v1.1.0.apk">
+              <img src="https://img.shields.io/badge/Download_APK-34A853?style=for-the-badge&logo=android">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- SECOND APP -->
 
-<h2>🎬 RnMovies</h2>
+  </tr>
+</tbody>
 
-<h4>A React Native Movie App</h4>
-
-<table align="center" border="1" cellpadding="8">
-<tr>
-
-<td align="center">
-<a href="https://github.com/kirito666coder/rn-movie-app">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/kirito666coder/rn-movie-app/releases/download/v1.1.0/movie-app-v1.1.0.apk">
-  <img src="https://img.shields.io/badge/Download_APK-34A853?style=for-the-badge&logo=android">
-</a>
-</td>
-
-</tr>
 </table>
 
-</td>
-</tr>
-</table>
-
-</td>
-
-
-<!-- SECOND APP CARD -->
-
-
-</tr>
-</table>
   <div align="right"><a>New ---></a></div>
 
 </details>
