@@ -760,9 +760,8 @@
 
 <td width="30%" align="center">
 
-<video width="300" height="250" style="width:100%; max-width:260px; height:auto;" controls>
-  <source src="assets/1985.mp4" type="video/mp4">
-</video>
+ <video src="https://github.com/user-attachments/assets/a9d83d4e-1416-424a-b35d-ab999f33a59f" width="260" controls>
+  </video>
 
 </td>
 
