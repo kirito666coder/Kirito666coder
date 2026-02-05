@@ -760,8 +760,8 @@
 
 <td width="30%" align="center">
 
-<video style="width:100%; max-width:260px; height:auto;" controls>
-  <source src="images/1985.mp4" type="video/mp4">
+<video width="300" height="250" style="width:100%; max-width:260px; height:auto;" controls>
+  <source src="assets/1985.mp4" type="video/mp4">
 </video>
 
 </td>
