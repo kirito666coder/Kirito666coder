@@ -769,13 +769,6 @@
 </tr>
 </table>
 
-## 🎧 Official Theme Song
-
-[![Spotify](https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV)
-
-[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=6vT8FUyY9LE)
-
-
 
 I'm a self-taught **Full-Stack Developer** with a passion for crafting seamless, scalable, and visually engaging web experiences.  
 Driven by curiosity and a love for building, I focus on creating efficient backends and dynamic, user-friendly frontends.
