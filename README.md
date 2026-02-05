@@ -734,6 +734,49 @@
     <img src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
  </div>
 
+
+<table align="center">
+<tr>
+
+
+<td width="70%">
+
+## Fun Facts
+
+> [!CAUTION]
+> **Fun Fact:**  
+> Everyone keeps asking how I’m pushing code to GitHub from 1985.  
+> Simple answer – my dad was there first.
+
+> [!TIP]
+> People wonder how I commit from 1985.  
+> Time machine = Dad.
+
+> [!IMPORTANT]
+> They asked: “Bro GitHub didn’t exist in 1985!”  
+> I said: “Neither did I… but my dad did.”
+
+</td>
+
+<td width="30%" align="center">
+
+<video style="width:100%; max-width:260px; height:auto;" controls>
+  <source src="images/1985.mp4" type="video/mp4">
+</video>
+
+</td>
+
+</tr>
+</table>
+
+## 🎧 Official Theme Song
+
+[![Spotify](https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV)
+
+[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=6vT8FUyY9LE)
+
+
+
 I'm a self-taught **Full-Stack Developer** with a passion for crafting seamless, scalable, and visually engaging web experiences.  
 Driven by curiosity and a love for building, I focus on creating efficient backends and dynamic, user-friendly frontends.
 
