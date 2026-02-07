@@ -728,6 +728,95 @@
 <br/>
 
 <details>
+ <summary align="center"><b>Certificates</b></summary>
+
+
+
+
+<table align="center" width="100%" style="border: 1px solid">
+
+  <thead align="center">
+    <tr align="center">
+      <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
+        Open learn Certificates
+      </th>
+    </tr>
+    <tr align="center">
+      <th style="border: 1px solid">Intro to Computer sys</th>
+      <th style="border: 1px solid">Dev Approaches</th>
+      <th style="border: 1px solid">Computing Data & Processes</th>
+      <th style="border: 1px solid">Intro to Computer & IT</th>
+    </tr>
+  </thead>
+
+  <tbody align="center">
+    <tr>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/an-introduction-to-computers-and-computer-systems.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/approaches-to-software-development.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/data-and-processes-in-computing.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/introducing-computing-and-it.jpg" width="200">
+      </td>
+    </tr>
+    <tr align="center">
+      <th style="border: 1px solid">Intro to Dev</th>
+      <th style="border: 1px solid">Network Security</th>
+      <th style="border: 1px solid">Simple Coding</th>
+      <th style="border: 1px solid">Dev Architecture</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/introduction-to-software-development.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/network-security.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/simple-coding.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/software-development-architecture.jpg" width="200">
+      </td>
+    </tr>
+    <tr align="center">
+      <th style="border: 1px solid">Enterprise Dev</th>
+      <th style="border: 1px solid">DB Dev Lifecycle</th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/software-development-for-enterprise-systems.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/open-learn-img/the-database-development-life-cycle.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+      </td>
+      <td style="border: 1px solid">
+      </td>
+    </tr>
+
+  </tbody>
+
+</table>
+
+
+
+
+
+</details>
+<hr/>
+<br/>
+
+
+<details>
  <summary align="center"><b>About Me</b></summary>
 
  <div align="center">
