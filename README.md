@@ -730,6 +730,115 @@
 <details>
  <summary align="center"><b>Certificates</b></summary>
 
+<table align="center" width="100%" style="border: 1px solid">
+
+  <thead align="center">
+    <tr align="center">
+      <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
+        Simplilearn Certificates
+      </th>
+    </tr>
+    <tr align="center">
+      <th style="border: 1px solid">AWS Billing</th>
+      <th style="border: 1px solid">AWS Compute Overview</th>
+      <th style="border: 1px solid">AWS DevOps</th>
+      <th style="border: 1px solid">AWS API Gateway</th>
+    </tr>
+  </thead>
+
+  <tbody align="center">
+    <tr>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/aws-billing-and-cost-management.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/aws-compute-services-overview.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/aws-fundamentals-of-devops-on-aws.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/aws-introduction-to-amazon-api-gateway.jpg" width="200">
+      </td>
+    </tr>
+    <tr align="center">
+      <th style="border: 1px solid">AWS Inferentia</th>
+      <th style="border: 1px solid">AWS Lambda</th>
+        <th style="border: 1px solid">GitHub Copilot</th>
+        <th style="border: 1px solid">Copilot Prompt Eng</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/aws-introduction-to-aws-inferentia-and-amazon-ec2-inf1-instances.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/aws-lambda-foundation.jpg" width="200">
+      </td>
+       <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/microsoft-github-copilot-fundamentals.jpg" width="200">
+      </td>
+       <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/microsoft-introduction-to-prompt-engineering-with-github-copilot.jpg" width="200">
+      </td>
+    </tr>
+    <tr align="center">
+      <th style="border: 1px solid">Intro to Gen AI</th>
+      <th style="border: 1px solid">Intro to LLMs</th>
+      <th style="border: 1px solid">Google Gemini</th>
+      <th style="border: 1px solid">Gen AI Studio</th>
+    </tr>
+    <tr>
+     <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/google-introduction-to-generative-ai.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/google-introduction-to-large-language-models.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/google-gemini-in-google-slides.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/google-introduction-to-generative-ai-studio.jpg" width="200">
+      </td>
+    </tr>
+    <tr align="center">
+     <th style="border: 1px solid">Design Thinking</th>
+      <th style="border: 1px solid">GitHub Basics</th>
+      <th style="border: 1px solid">Android Studio</th>
+         <th style="border: 1px solid">Databricks SQL BI</th>
+    </tr>
+    <tr>
+     <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/design-thinking-for-beginners.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/github-basics.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/introduction-to-android-studio-course.jpg" width="200">
+      </td>
+      <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/databricks-get-started-with-sql-analytics and-bi-on-databricks.jpg" width="200">
+      </td>
+    </tr>
+    <tr align="center">
+      <th style="border: 1px solid">Agentic AI Apps</th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/build-reliable-agentic-ai-applications.jpg" width="200">
+      </td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
+    </tr>
+
+  </tbody>
+
+</table>
 
 
 
