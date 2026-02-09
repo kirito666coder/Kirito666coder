@@ -730,6 +730,37 @@
 <details>
  <summary align="center"><b>Certificates</b></summary>
 
+
+<table align="center" width="100%" style="border: 1px solid">
+
+  <thead align="center">
+    <tr align="center">
+      <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
+        HackerRank
+      </th>
+    </tr>
+  </thead>
+  <tbody align="center">
+  <tr align="center">
+      <th style="border: 1px solid">Frontend (React)</th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/frontend_developer_react certificate.jpg" width="200">
+      </td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
+    </tr>
+
+  </tbody>
+
+</table>
+
+
 <table align="center" width="100%" style="border: 1px solid">
 
   <thead align="center">
