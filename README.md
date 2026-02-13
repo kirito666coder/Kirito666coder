@@ -816,8 +816,8 @@
     </tr>
   <tr align="center">
       <th style="border: 1px solid">Frontend (React)</th>
-      <th style="border: 1px solid"></th>
-      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid">(CSS)</th>
+      <th style="border: 1px solid">(JavaScript)</th>
       <th style="border: 1px solid"></th>
     </tr>
   </thead>
@@ -826,8 +826,12 @@
         <td style="border: 1px solid">
           <img src="./assets/images/hacker-rank-img/frontend_developer_react certificate.jpg" width="200">
       </td>
-      <td style="border: 1px solid"></td>
-      <td style="border: 1px solid"></td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/css certificate.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/javascript_basic certificate.jpg" width="200">
+      </td>
       <td style="border: 1px solid"></td>
     </tr>
 
