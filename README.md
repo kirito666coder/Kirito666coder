@@ -805,6 +805,28 @@
 
 </table>
 
+<table align="center" width="100%" style="border: 1px solid">
+
+  <thead align="center">
+    <tr align="center">
+      <th style="border: 1px solid; padding: 10px; font-size: 19px;">
+        cisco
+      </th>
+    </tr>
+  <tr align="center">
+      <th style="border: 1px solid">intro-to-cybersecurity</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/cisco/Introduction_to_Cybersecurity_certificate.jpg" width="200">
+    </tr>
+
+  </tbody>
+
+</table>
+
 
 <table align="center" width="100%" style="border: 1px solid">
 
@@ -933,16 +955,20 @@
     </tr>
     <tr align="center">
       <th style="border: 1px solid">Agentic AI Apps</th>
-      <th style="border: 1px solid"></th>
-      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid">UI/UX</th>
+      <th style="border: 1px solid">intro to figma</th>
       <th style="border: 1px solid"></th>
     </tr>
     <tr>
         <td style="border: 1px solid">
           <img src="./assets/images/simplilearn-img/build-reliable-agentic-ai-applications.jpg" width="200">
       </td>
-      <td style="border: 1px solid"></td>
-      <td style="border: 1px solid"></td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/basics-of-ui-ux.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/introduction-to-figma.jpg" width="200">
+      </td>
       <td style="border: 1px solid"></td>
     </tr>
 
