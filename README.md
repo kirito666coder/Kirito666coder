@@ -779,14 +779,14 @@
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        AWS Skill Builder
+        AWS Skill Builder  Certificates
       </th>
     </tr>
   <tr align="center">
       <th style="border: 1px solid">generative-ai</th>
       <th style="border: 1px solid">devops on aws</th>
-      <th style="border: 1px solid"></th>
-      <th style="border: 1px solid"></th>
+      <!-- <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th> -->
     </tr>
   </thead>
   <tbody align="center">
@@ -797,8 +797,8 @@
         <td style="border: 1px solid">
           <img src="./assets/images/aws-skill-builder-img/aws-training-getting-started-with-devops-on-aws.png" width="200">
       </td>
-      <td style="border: 1px solid"></td>
-      <td style="border: 1px solid"></td>
+      <!-- <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td> -->
     </tr>
 
   </tbody>
@@ -809,18 +809,70 @@
 
   <thead align="center">
     <tr align="center">
-      <th style="border: 1px solid; padding: 10px; font-size: 19px;">
-        cisco
+      <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
+        IBM Skill Builder  Certificates
       </th>
     </tr>
   <tr align="center">
-      <th style="border: 1px solid">intro-to-cybersecurity</th>
+      <th style="border: 1px solid">web Development</th>
+      <!-- <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th> -->
     </tr>
   </thead>
   <tbody align="center">
     <tr>
         <td style="border: 1px solid">
+          <img src="./assets/images/ibm/web-development.jpg" width="200">
+      </td>
+      <!-- <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td> -->
+    </tr>
+
+  </tbody>
+
+</table>
+
+<table align="center" width="100%" style="border: 1px solid">
+
+  <thead align="center">
+    <tr align="center">
+      <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
+        cisco Certificates
+      </th>
+    </tr>
+  <tr align="center">
+      <th style="border: 1px solid">HTML</th>
+      <th style="border: 1px solid">CSS</th>
+      <th style="border: 1px solid">javaScript_1</th>
+      <th style="border: 1px solid">javaScript_2</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/cisco/HTML_Essentials_certificate.jpg" width="200"></td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/cisco/CSS_Essentials_certificate.jpg" width="200"></td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/cisco/JavaScript_Essentials_1_certificate.jpg" width="200"></td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/cisco/JavaScript_Essentials_2_certificate.jpg" width="200"></td>
+    </tr>
+      <tr align="center">
+      <th style="border: 1px solid">intro-to-cybersecurity</th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid">
           <img src="./assets/images/cisco/Introduction_to_Cybersecurity_certificate.jpg" width="200">
+      </td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
     </tr>
 
   </tbody>
@@ -833,27 +885,43 @@
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        HackerRank
+        HackerRank  Certificates
       </th>
     </tr>
   <tr align="center">
-      <th style="border: 1px solid">Frontend (React)</th>
       <th style="border: 1px solid">(CSS)</th>
       <th style="border: 1px solid">(JavaScript)</th>
-      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid">React(basic)</th>
+      <th style="border: 1px solid">React</th>
     </tr>
   </thead>
   <tbody align="center">
     <tr>
-        <td style="border: 1px solid">
-          <img src="./assets/images/hacker-rank-img/frontend_developer_react certificate.jpg" width="200">
-      </td>
         <td style="border: 1px solid">
           <img src="./assets/images/hacker-rank-img/css certificate.jpg" width="200">
       </td>
         <td style="border: 1px solid">
           <img src="./assets/images/hacker-rank-img/javascript_basic certificate.jpg" width="200">
       </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/frontend_developer_react_basic certificate.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/frontend_developer_react certificate.jpg" width="200">
+      </td>
+    </tr>
+     <tr align="center">
+      <th style="border: 1px solid">Node(js)</th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/nodejs_basic certificate.jpg" width="200">
+      </td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
       <td style="border: 1px solid"></td>
     </tr>
 
