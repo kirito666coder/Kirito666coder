@@ -514,7 +514,7 @@
       <img src="https://github-readme-stats-nu-umber.vercel.app/api?username=Kirito666coder&show_icons=true&count_private=true&theme=react&show_rank=true&border_radius=10" />
     </td>
        <td width="50%">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kirito666coder&theme=onedark&border_radius=10" />
+          <img src="https://github-trophies.vercel.app/?username=kirito666coder&theme=onedark&row=1&column=12" />
         <br>
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kirito666coder&theme=react&border_radius=10" />
       </td>
@@ -547,7 +547,8 @@
     <td align="center" width="50%">
     <img width="100%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=Kirito666coder&layout=compact&theme=react&border_radius=10&hide=PHP,Shell,Dockerfile,Procfile" />
     </td>
-      <td> <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kirito666coder&theme=react&layout=compact&range=last_7_days&langs_count=5&hide_progress=false&custom_title=Last%207%20Days" />
+      <td> 
+      <img src="https://wakatime.com/share/@Kirito666coder/5e59506d-e6b0-4ec3-ad5a-bb9e3b204c6e.svg" width="100%" />
       <a href="https://wakatime.com/@bcf8c121-a59b-496a-8366-30078227a02e"><img src="https://wakatime.com/badge/user/bcf8c121-a59b-496a-8366-30078227a02e.svg" alt="Total time coded since Apr 28 2025" /></a>
       </td>
      
