@@ -563,6 +563,28 @@
 <details>
  <summary align="center"><b>Project</b></summary>
 
+<table>
+<tr>
+<td style="border: 1px solid">
+
+> [!CAUTION]
+> Some **legacy projects** may not function as expected due to **deprecated dependencies**, **API changes**, **service limitations**, or **hosting restrictions**.
+>
+> These projects are **no longer actively maintained**.
+
+> [!NOTE]
+> They are preserved to reflect my development journey and progression.
+
+> [!TIP]
+> **New projects follow modern best practices, improved architecture, cleaner code structure, performance optimizations, and scalable design patterns.**
+
+> [!IMPORTANT]
+> Please refer to the **New** section for the most up-to-date and production-ready work.
+
+</td>
+</tr>
+</table>
+
 <h3 align="center">Website</h3>
 
 <a><---Old</a>
@@ -645,6 +667,7 @@
         <tr align="center">
           <th align="center" style="border: 1px solid">Dog Studio</th>
           <th align="center" style="border: 1px solid">spylt</th>
+          <th align="center" style="border: 1px solid">Nimbus</th>
         </tr>
       </thead>
       <tbody align="center">
@@ -661,6 +684,12 @@
               <img src="./images/spylt.png" width="200">
             </a>
           </td>
+           <td style="border: 1px solid">
+            <a href="https://nimbus-vapor-75.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/nimbus.png" width="200">
+            </a>
+          </td>
         </tr>
       </tbody>
        <tfoot align="center">
@@ -672,6 +701,11 @@
       </td>
             <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/spylt.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+            <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/Nimbus-vapor-75.git" target="_blank" rel="noopener noreferrer">
           Repository
         </a>
       </td>
