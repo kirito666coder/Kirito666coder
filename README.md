@@ -809,6 +809,43 @@
 <details>
  <summary align="center"><b>Certificates</b></summary>
 
+ <table align="center" width="100%" style="border: 1px solid">
+
+  <thead align="center">
+    <tr align="center">
+      <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
+        FreeCodeCamp
+      </th>
+    </tr>
+  <tr align="center">
+      <th style="border: 1px solid">responsive web design</th>
+      <!-- <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th> -->
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/free-code-camp/responsive-web-design.png" width="200">
+      </td>
+      <!-- <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid"></td> -->
+    </tr>
+    <!-- verify button row -->
+    <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.freecodecamp.org/certification/fcc-1c3f4a9f-9bd9-4410-b27c-c028e37e2b24/responsive-web-design-v9" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
+
+  </tbody>
+
+</table>
+
 <table align="center" width="100%" style="border: 1px solid">
 
   <thead align="center">
@@ -964,6 +1001,8 @@
 
 </table>
 
+<details>
+ <summary align="center"><b>Click here for (more)</b></summary>
 
 <table align="center" width="100%" style="border: 1px solid">
 
@@ -1159,6 +1198,7 @@
 
 
 
+</details>
 </details>
 <hr/>
 <br/>
