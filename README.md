@@ -982,6 +982,28 @@
           <img src="./assets/images/hacker-rank-img/frontend_developer_react certificate.jpg" width="200">
       </td>
     </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/9c4af8e34de0" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/480c9e5592f6" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/633151a4f2b9" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/8b0ccd8433dc" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
      <tr align="center">
       <th style="border: 1px solid">Node(js)</th>
       <th style="border: 1px solid"></th>
@@ -995,6 +1017,12 @@
       <td style="border: 1px solid"></td>
       <td style="border: 1px solid"></td>
       <td style="border: 1px solid"></td>
+    </tr><tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/be8f97f48f12" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
     </tr>
 
   </tbody>
