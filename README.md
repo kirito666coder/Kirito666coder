@@ -901,6 +901,13 @@
       <td style="border: 1px solid"></td>
       <td style="border: 1px solid"></td> -->
     </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.credly.com/badges/52d390ce-2cad-4a8e-b183-cc610efaec90/public_url" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
 
   </tbody>
 
@@ -932,6 +939,28 @@
         <td style="border: 1px solid">
           <img src="./assets/images/cisco/JavaScript_Essentials_2_certificate.jpg" width="200"></td>
     </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.credly.com/badges/035643ed-7f3d-4e2b-82ab-cee4390fb186/public_url" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.credly.com/badges/d29ea383-3188-4da9-8aca-a150d32a21c8/public_url" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.credly.com/badges/e268d583-b553-4653-9844-fbb121acaf6c/public_url" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.credly.com/badges/8b31168d-62d4-49aa-9869-1ec8ca152d46/public_url" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
       <tr align="center">
       <th style="border: 1px solid">intro-to-cybersecurity</th>
       <th style="border: 1px solid"></th>
@@ -945,6 +974,13 @@
       <td style="border: 1px solid"></td>
       <td style="border: 1px solid"></td>
       <td style="border: 1px solid"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.credly.com/badges/e8bb17e5-1861-4507-998d-a8054433d0a3/public_url" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
     </tr>
 
   </tbody>
