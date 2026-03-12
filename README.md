@@ -717,6 +717,64 @@
    <hr/>
 
 
+<h3 align="center">Full Stack</h3>
+
+   <div><a><--- Old</a></div>
+ <table align="center" style="border: 1px solid">
+      <thead align="center">
+        <tr align="center">
+          <th align="center" style="border: 1px solid">FocusMeet</th>
+          <th align="center" style="border: 1px solid">
+MERN Music Hub</th>
+          <th align="center" style="border: 1px solid">Shop Cart</th>
+        </tr>
+      </thead>
+      <tbody align="center">
+        <tr>
+          <td style="border: 1px solid">
+            <a href="https://github.com/kirito666coder/FocusMeet-App.git" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/focusMeet.png" width="200">
+            </a>
+          </td>
+           <td style="border: 1px solid">
+            <a href="https://github.com/kirito666coder/MERN-Music-Hub.git" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/mernMusicHub.png" width="200">
+            </a>
+          </td>
+           <td style="border: 1px solid">
+            <a href="https://github.com/kirito666coder/shopcart.git" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/shopCart.png" width="200">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+       <tfoot align="center">
+    <tr>
+      <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/FocusMeet-App.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+            <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/MERN-Music-Hub.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+            <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/shopcart.git" target="_blank" rel="noopener noreferrer">
+          Repository
+        </a>
+      </td>
+    </tr>
+  </tfoot>
+    </table>
+  <div align="right"><a>New ---></a></div>
+
+<hr/>
+
 <h3 align="center">Application</h3>
 
    <div><a><--- Old</a></div>
