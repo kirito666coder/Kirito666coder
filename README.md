@@ -1157,6 +1157,28 @@ MERN Music Hub</th>
           <img src="./assets/images/simplilearn-img/aws-introduction-to-amazon-api-gateway.jpg" width="200">
       </td>
     </tr>
+        <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/3q0PoeDJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/nZ2CIyyJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/zuSeBg2Iw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/YTSiI2KIw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
     <tr align="center">
       <th style="border: 1px solid">AWS Inferentia</th>
       <th style="border: 1px solid">AWS Lambda</th>
@@ -1175,6 +1197,28 @@ MERN Music Hub</th>
       </td>
        <td style="border: 1px solid">
           <img src="./assets/images/simplilearn-img/microsoft-introduction-to-prompt-engineering-with-github-copilot.jpg" width="200">
+      </td>
+    </tr>
+            <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/8c1MhJtJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/QkwuPqWIw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/lwpliNmJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/rLXDyjdKw1b" target="_blank">
+          Verify Certificate
+        </a>
       </td>
     </tr>
     <tr align="center">
@@ -1197,6 +1241,28 @@ MERN Music Hub</th>
           <img src="./assets/images/simplilearn-img/google-introduction-to-generative-ai-studio.jpg" width="200">
       </td>
     </tr>
+            <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/YiziWUJJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/vXVmxFbJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/ji8T6hOJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/0HFHQVq9u1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
     <tr align="center">
      <th style="border: 1px solid">Design Thinking</th>
       <th style="border: 1px solid">GitHub Basics</th>
@@ -1217,6 +1283,28 @@ MERN Music Hub</th>
           <img src="./assets/images/simplilearn-img/databricks-get-started-with-sql-analytics and-bi-on-databricks.jpg" width="200">
       </td>
     </tr>
+            <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/PZniO5RIw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/b8JoSH7Iw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/rk6Bn9OIw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/UlJqQW8Jw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
     <tr align="center">
       <th style="border: 1px solid">Agentic AI Apps</th>
       <th style="border: 1px solid">UI/UX</th>
@@ -1234,6 +1322,23 @@ MERN Music Hub</th>
           <img src="./assets/images/simplilearn-img/introduction-to-figma.jpg" width="200">
       </td>
       <td style="border: 1px solid"></td>
+    </tr>
+            <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/TGHAToWJw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/Lz8xRjIIw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/Va5b0kEIw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
     </tr>
 
   </tbody>
