@@ -1123,6 +1123,104 @@ MERN Music Hub</th>
 
 </table>
 
+<table align="center" width="100%" style="border: 1px solid">
+
+  <thead align="center">
+    <tr align="center">
+      <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
+        OneRoadMap
+      </th>
+    </tr>
+  <tr align="center">
+      <th style="border: 1px solid">CSS</th>
+      <th style="border: 1px solid">JavaScript</th>
+      <th style="border: 1px solid">TypeScript</th>
+      <th style="border: 1px solid">React</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/css.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/js.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/ts.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/ReactJs.jpg" width="200">
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/css/certificate/CERT-29449EEB" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/js/certificate/CERT-5CF0BE31" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/ts/certificate/CERT-CE375038" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/react/certificate/CERT-0CAB4970" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
+     <tr align="center">
+      <th style="border: 1px solid">Node</th>
+      <th style="border: 1px solid">Frontend(react)</th>
+      <th style="border: 1px solid">Full Stack</th>
+      <th style="border: 1px solid">Dev ops</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/nodejs.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/frontend-dev.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/full-stack-dev.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/one-road-map/dev-ops.jpg" width="200">
+      </td>
+    </tr><tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/node/certificate/CERT-C9072545" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/frontend/certificate/CERT-A7A6D871" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/fs/certificate/CERT-73E38E58" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.oneroadmap.io/skills/devops/certificate/CERT-A78CC279" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
+
+  </tbody>
+
+</table>
+
 <details>
  <summary align="center"><b>Click here for (more)</b></summary>
 
