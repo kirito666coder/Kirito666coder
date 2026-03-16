@@ -872,7 +872,7 @@ MERN Music Hub</th>
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        FreeCodeCamp
+        <img align="center" src="./assets/icons/FreeCodeCamp.jpg">
       </th>
     </tr>
   <tr align="center">
@@ -909,7 +909,7 @@ MERN Music Hub</th>
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        AWS Skill Builder  Certificates
+        <img align="center" src="./assets/icons/aws-skill-builder.jpg">
       </th>
     </tr>
   <tr align="center">
@@ -940,7 +940,7 @@ MERN Music Hub</th>
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        IBM Skill Builder  Certificates
+        <img align="center" src="./assets/icons/IBMSkillsBuild.png">
       </th>
     </tr>
   <tr align="center">
@@ -976,7 +976,7 @@ MERN Music Hub</th>
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        cisco Certificates
+        <img align="center" src="./assets/icons/cisco.png" height="120">
       </th>
     </tr>
   <tr align="center">
@@ -1045,13 +1045,12 @@ MERN Music Hub</th>
 
 </table>
 
-
 <table align="center" width="100%" style="border: 1px solid">
 
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        HackerRank  Certificates
+        <img align="center" src="./assets/icons/hackerrank.png">
       </th>
     </tr>
   <tr align="center">
@@ -1123,12 +1122,17 @@ MERN Music Hub</th>
 
 </table>
 
+
+<details>
+ <summary align="center"><b>Click here for (more)</b></summary>
+
+
 <table align="center" width="100%" style="border: 1px solid">
 
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        OneRoadMap
+        <img align="center" src="./assets/icons/oneroadmap.png">
       </th>
     </tr>
   <tr align="center">
@@ -1150,7 +1154,7 @@ MERN Music Hub</th>
           <img src="./assets/images/one-road-map/ts.jpg" width="200">
       </td>
         <td style="border: 1px solid">
-          <img src="./assets/images/one-road-map/ReactJs.jpg" width="200">
+          <img src="./assets/images/one-road-map/reactJs.jpg" width="200">
       </td>
     </tr>
     <tr>
@@ -1221,15 +1225,12 @@ MERN Music Hub</th>
 
 </table>
 
-<details>
- <summary align="center"><b>Click here for (more)</b></summary>
-
 <table align="center" width="100%" style="border: 1px solid">
 
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        Simplilearn Certificates
+      <img align="center" src="./assets/icons/simplilearn.png">
       </th>
     </tr>
     <tr align="center">
@@ -1450,7 +1451,7 @@ MERN Music Hub</th>
   <thead align="center">
     <tr align="center">
       <th colspan="4" style="border: 1px solid; padding: 10px; font-size: 19px;">
-        Open learn Certificates
+        <img align="center" src="./assets/icons/OpenLearn.png">
       </th>
     </tr>
     <tr align="center">
