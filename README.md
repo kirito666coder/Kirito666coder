@@ -28,9 +28,10 @@
   </a>
 </p>
 
- <hr/>
+ <br/>
 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<details open>
+<summary align="center"><b> Languages-Frameworks-Tools </b></summary>
 
 <div align="center">
 
@@ -39,7 +40,7 @@
  <br>
 
   <h3>IDE</h3>
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vsCode,cursorai,androidstudio&perline=15&t=dark" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vsCode,antigravity,cursorai,androidstudio&perline=15&t=dark" />
  <br>
 
   <h3>Tools</h3>
@@ -47,7 +48,7 @@
  <br>
 
   <h3>AI Tools</h3>
-      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chatgpt,claude,pieces&perline=15&t=dark" />
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chatgpt,claude,gemini,pieces&perline=15&t=dark" />
   <br>
 
   <h3>Programming Languages</h3>
@@ -60,7 +61,6 @@
   <h3>Frontend Libraries</h3>
  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react,tailwind,redux,zustand,reactrouter,framermotion,gsap,threejs&perline=15&t=dark" />
   <br>
-
 
   <h3>UI Libraries</h3>
  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=materialUI,shadcn,skiperui,chakraui,heroui,mantineui,magicui&perline=15&t=dark" />
@@ -79,7 +79,7 @@
 <br>
 
   <h3>Dev Stack Utilities</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,clerk,prismic,sanity,stripe&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,clerk,inngest,prismic,sanity,stripe&perline=15&t=dark" />
   <br>
 
   <h3>Dev Ops</h3>
@@ -106,396 +106,438 @@
 
 <br/>
 <br/>
-
 <details>
- <summary align="center"><b> Tech Stack</b></summary>
+ <summary align="center"><b> details</b></summary>
 
 <table>
-  <!-- Tools & Technologies Section -->
+  <!-- OS Section -->
   <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Tools & Technologies</th>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">OS</th>
   </tr>
   <tr>
-  <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" /><br/>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=windows&t=dark" width="50" /><br/>
       <b>Windows</b><br/>
       Development on Windows OS
     </td>
-     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /><br/>
-      <b>Linux</b><br/>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=Ubuntu&t=dark" width="50" /><br/>
+      <b>Ubuntu</b><br/>
       Preferred OS for development
     </td>
+  </tr>
+  <!-- IDE Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">IDE</th>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vsCode&t=dark" width="50" /><br/>
       <b>VS Code</b><br/>
       Daily driver editor
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /><br/>
-      <b>Git</b><br/>
-      Confident with version control
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=antigravity&t=dark" width="50" /><br/>
+      <b>AntiGravity</b><br/>
+      AI-powered dev environment
     </td>
     <td align="center">
-     <img src="https://skill-icons-snowy.vercel.app/api/icons?i=github&perline=15&t=dark" /><br>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cursorai&t=dark" width="50" /><br/>
+      <b>Cursor</b><br/>
+      AI-based code editor
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=androidstudio&t=dark" width="50" /><br/>
+      <b>Android Studio</b><br/>
+      For native mobile development
+    </td>
+  </tr>
+  <!-- Tools Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=github&t=dark" width="50" /><br/>
       <b>GitHub</b><br/>
       Actively pushing projects
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /><br/>
-      <b>Node.js</b><br/>
-      Building backend APIs
-    </td>
-  </tr>
-  <tr>
-      <td align="center">
-    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=figma&perline=15&t=dark" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=figma&t=dark" width="50" /><br/>
       <b>Figma</b><br/>
       Proficient in UI/UX designing
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=postman&t=dark" width="50" /><br/>
       <b>Postman</b><br/>
       API testing tool
     </td>
   </tr>
-
-  <!-- Programming Languages Section -->
+  <!-- AI Tools Section -->
   <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Programming Languages</th>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">AI Tools</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chatgpt&t=dark" width="50" /><br/>
+      <b>ChatGPT</b><br/>
+      AI Assistant for development
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=claude&t=dark" width="50" /><br/>
+      <b>Claude</b><br/>
+      Advanced AI for complex tasks
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=gemini&t=dark" width="50" /><br/>
+      <b>Gemini</b><br/>
+      AI model for versatile use
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pieces&t=dark" width="50" /><br/>
+      <b>Pieces</b><br/>
+      AI-powered dev assistant
+    </td>
+  </tr>
+  <!-- Programming Languages Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Programming Languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=html&t=dark" width="50" /><br/>
       <b>HTML</b><br/>
       Used in 50+ projects
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=css&t=dark" width="50" /><br/>
       <b>CSS</b><br/>
       Intermediate level
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=js&t=dark" width="50" /><br/>
       <b>JavaScript</b><br/>
       Core language, confident
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=ts&t=dark" width="50" /><br/>
       <b>TypeScript</b><br/>
       Used with React & Node
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=py&t=dark" width="50" /><br/>
       <b>Python</b><br/>
       Used in backend applications
     </td>
   </tr>
-
-  <!-- Frameworks Section -->
+  <!-- Frontend Frameworks Section -->
   <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Frameworks</th>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Frontend Frameworks</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nextjs&t=dark" width="50" /><br/>
       <b>Next.js</b><br/>
       SSR, fullstack app framework
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" /><br/>
-      <b>Angular</b><br/>
-      Component-based frontend framework
-    </td>
-    <td align="center">
-     <img src="https://skill-icons-snowy.vercel.app/api/icons?i=express&perline=15&t=dark" /><br>
-      <b>Express</b><br/>
-      Used in MERN projects
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" /><br/>
-      <b>Django</b><br/>
-      Web framework for Python
-    </td>
-   
   </tr>
- 
-  <!-- Libraries -->
-
- <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Libraries</th>
+  <!-- Frontend Libraries Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Frontend Libraries</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=react&t=dark" width="50" /><br/>
       <b>React</b><br/>
       Used in 40+ projects
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=tailwind&t=dark" width="50" /><br/>
       <b>Tailwind CSS</b><br/>
       Preferred UI styling
     </td>
     <td align="center">
-   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=reactrouter&perline=15&t=dark" /><br/>
-  <b>React Router DOM</b><br/>
-  Declarative routing for React apps – I use it to handle dynamic pages and navigation.
-</td>
-    <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" /><br/>
-  <b>Redux</b><br/>
-  State management for JavaScript apps
-</td>
-<td align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=axios" width="50" /><br/>
-  <b>Axios</b><br/>
-  Promise-based HTTP client for the browser and Node.js
-</td>
- <td align="center">
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=framermotion&perline=15&t=dark" /><br/>
-  <b>Framer Motion</b><br/>
-  I use Framer Motion daily for smooth, interactive animations in React. 
-</td>
-  </tr>
-  <tr>
-  <td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=zod&perline=15&t=dark" width="50" /><br/>
-  <b>Zod</b><br/>
-  Type-safe schema validation for TypeScript
-</td>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=zustand&perline=15&t=dark" width="50" /><br/>
-  <b>Zustand</b><br/>
-  Fast and scalable state management for React
-</td>
-  </tr>
-  <tr>
-  <td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=gsap&perline=15&t=dark" /><br/>
-  <b>GSAP</b><br/>
-  Powerful animation library for modern web interfaces
-</td>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=threejs&perline=15&t=dark" /><br>
-  <b>Three.js</b><br/>
-  3D web experiences with WebGL
-</td>
-  </tr>
-
-  <tr>
-    <td align="center">
-    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jwt&perline=15&t=dark" /><br/>
-    <b>JWT</b><br/>
-    Secure token-based authentication for APIs
-  </td>
-  <td align="center">
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=passportjs&perline=15&t=dark" /><br/>
-    <b>Passport.js</b><br/>
-    Simple, modular authentication middleware for Node.js
-  </td>
-  <td align="center">
-   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=OAuth&perline=15&t=dark" /><br/>
-    <b>OAuth</b><br/>
-    Authorization protocol for secure third-party access
-  </td>
-  <td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=authjs&perline=15&t=dark" width="50" /><br/>
-  <b>Auth.js</b><br/>
-  Authentication for modern web apps with Next.js and more
-</td>
-  <td align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=socketio" width="50" /><br/>
-  <b>Socket.IO</b><br/>
-  Real-time, bidirectional communication between web clients and servers
-</td>
-</tr>
-
-<tr>
-<th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">UI Libraries</th>
-</tr>
-<tr>
-<td align="center">
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=shadcn&perline=15&t=dark" /><br/>
-  <b>shadcn UI</b><br/>
-  Component library built on top of Radix UI & Tailwind CSS
-</td>
-<td align="center">
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=skiperui&perline=15&t=dark" /><br/>
-  <br/>
-  <b>Skiper UI</b><br/>
-  Beautiful, customizable React component library for modern dashboards
-</td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" alt="Material UI Logo" /><br/>
-  <b>Material UI</b><br/>
-  React components for faster web development
-</td>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chakraui&perline=15&t=dark" /><br/>
-  <b>Chakra UI</b><br/>
-  Accessible, modular, and themeable React component library
-</td>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=heroui&perline=15&t=dark" /><br/>
-  <b>Hero UI</b><br/>
-  Modern, customizable UI kit for React applications
-</td>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mantineui&perline=15&t=dark" /><br/>
-  <b>Mantine UI</b><br/>
-  Fully featured React component library with hooks and theming
-</td>
-  </tr>
-  <tr>
-  <td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=magicui&perline=15&t=dark" /><br/>
-  <b>Magic UI</b><br/>
-  Animated React + Tailwind component library for designing interactive UIs
-</td>
-
-  </tr>
-
-  <!-- Databases Section -->
-  <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /><br/>
-      <b>MongoDB</b><br/>
-      Database for most apps
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=redux&t=dark" width="50" /><br/>
+      <b>Redux</b><br/>
+      State management for JS apps
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=zustand&t=dark" width="50" /><br/>
+      <b>Zustand</b><br/>
+      Fast and scalable state management
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=reactrouter&t=dark" width="50" /><br/>
+      <b>React Router DOM</b><br/>
+      Declarative routing for React apps
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=framermotion&t=dark" width="50" /><br/>
+      <b>Framer Motion</b><br/>
+      Smooth, interactive animations
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=gsap&t=dark" width="50" /><br/>
+      <b>GSAP</b><br/>
+      Powerful animation library
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=threejs&t=dark" width="50" /><br/>
+      <b>Three.js</b><br/>
+      3D web experiences with WebGL
+    </td>
+  </tr>
+  <!-- UI Libraries Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">UI Libraries</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=materialUI&t=dark" width="50" /><br/>
+      <b>Material UI</b><br/>
+      React components for faster dev
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=shadcn&t=dark" width="50" /><br/>
+      <b>shadcn UI</b><br/>
+      Component library built with Radix
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=skiperui&t=dark" width="50" /><br/>
+      <b>Skiper UI</b><br/>
+      Beautiful React component library
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=chakraui&t=dark" width="50" /><br/>
+      <b>Chakra UI</b><br/>
+      Accessible component library
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=heroui&t=dark" width="50" /><br/>
+      <b>Hero UI</b><br/>
+      Modern UI kit for React applications
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mantineui&t=dark" width="50" /><br/>
+      <b>Mantine UI</b><br/>
+      Fully featured React components
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=magicui&t=dark" width="50" /><br/>
+      <b>Magic UI</b><br/>
+      Animated React component library
+    </td>
+  </tr>
+  <!-- Backend Frameworks Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Backend Frameworks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=express&t=dark" width="50" /><br/>
+      <b>Express</b><br/>
+      Used in MERN projects
+    </td>
+  </tr>
+  <!-- Backend Libraries Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Backend Libraries</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=zod&t=dark" width="50" /><br/>
+      <b>Zod</b><br/>
+      Type-safe schema validation
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=passportjs&t=dark" width="50" /><br/>
+      <b>Passport.js</b><br/>
+      Authentication middleware for Node.js
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jwt&t=dark" width="50" /><br/>
+      <b>JWT</b><br/>
+      Secure token-based authentication
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=OAuth&t=dark" width="50" /><br/>
+      <b>OAuth</b><br/>
+      Secure third-party access
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=authjs&t=dark" width="50" /><br/>
+      <b>Auth.js</b><br/>
+      Authentication for modern web apps
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=soketio&t=dark" width="50" /><br/>
+      <b>Socket.IO</b><br/>
+      Real-time communication
+    </td>
+  </tr>
+  <!-- Databases Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Databases</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mongo&t=dark" width="50" /><br/>
+      <b>MongoDB</b><br/>
+      Database for most applications
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mysql&t=dark" width="50" /><br/>
       <b>MySQL</b><br/>
       Relational database knowledge
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=redis&t=dark" width="50" /><br/>
       <b>Redis</b><br/>
       In-memory database
     </td>
   </tr>
-
-<!-- AI Tools Section -->
-<tr>
-  <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">AI Tools</th>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" /><br/>
-    <b>ChatGPT</b><br/>
-    AI Assistant for development
-  </td>
-  <td align="center">
-    <img src="https://cdn.brandfetch.io/ideKwS9dxx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741336988021" height="50" /><br/>
-    <b>Cursor</b><br/>
-    AI-based code editor
-  </td>
-  <td align="center">
-   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pieces&perline=15&t=dark" /><br/>
-    <b>Pieces</b><br/>
-    AI-powered dev assistant & workflow
-  </td>
-</tr>
-
-<!-- Dev tools build tools -->
-<tr>
-  <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Dev Tools & Build Tools</th>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" /><br/>
-    <b>NPM</b><br/>
-    JavaScript package manager
-  </td>
-  <td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pnpm&perline=15&t=dark" /><br/>
-  <b>pnpm</b><br/>
-  Fast, disk space-efficient package manager
-</td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" /><br/>
-    <b>Vite</b><br/>
-    Frontend build tool & dev server
-  </td>
-   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" /><br/>
-    <b>Docker</b><br/>
-    Containerization tool
-  </td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" /><br/>
-    <b>Webpack</b><br/>
-    Module bundler & build tool
-  </td>
-  <td align="center">
-   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=clerk&perline=15&t=dark" /><br/>
-    <b>Clerk</b><br/>
-    Authentication & user management
-  </td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=prismic&perline=15&t=dark" /><br/>
-  <b>Prismic</b><br/>
-  Headless CMS for flexible content creation and management
-</td>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=sanity&perline=15&t=dark" width="50" /><br/>
-  <b>Sanity</b><br/>
-  Headless CMS for structured content and APIs
-</td>
-
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=stripe&perline=15&t=dark" width="50" /><br/>
-  <b>Stripe</b><br/>
-  Payments infrastructure for the internet
-</td>
-</tr>
-
- <!-- Cloud & Deployment-->
-<tr>
-  <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Cloud & Deployment</th>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cloudinary&perline=15&t=dark" /><br/>
-  <b>Cloudinary</b><br/>
-  Media management & image hosting
-</td>
-  <td align="center">
-    <img src="https://skill-icons-snowy.vercel.app/api/icons?i=aws&perline=15&t=dark" /><br/>
-    <b>AWS</b><br/>
-    Cloud computing platform
-  </td>
-  <td align="center">
-   <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vercel&perline=15&t=dark" /><br/>
-    <b>Vercel</b><br/>
-    Frontend deployment platform
-  </td>
-  <td align="center">
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=netlify&perline=15&t=dark" /><br/>
-  <b>Netlify</b><br/>
-  Web app hosting
-</td>
-</tr>
-
-<!-- Testing -->
+  <!-- Dev Stack Utilities Section -->
   <tr>
-    <th colspan="6" style="text-align: center; font-size: 20px; padding: 10px;">Testing Tools</th>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Dev Stack Utilities</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" /><br/>
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite&t=dark" width="50" /><br/>
+      <b>Vite</b><br/>
+      Frontend build tool & dev server
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=npm&t=dark" width="50" /><br/>
+      <b>NPM</b><br/>
+      JavaScript package manager
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=pnpm&t=dark" width="50" /><br/>
+      <b>pnpm</b><br/>
+      Disk space-efficient package manager
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=clerk&t=dark" width="50" /><br/>
+      <b>Clerk</b><br/>
+      Authentication & user management
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=inngest&t=dark" width="50" /><br/>
+      <b>Inngest</b><br/>
+      Event-driven background jobs
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=prismic&t=dark" width="50" /><br/>
+      <b>Prismic</b><br/>
+      Headless CMS for flexible content
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=sanity&t=dark" width="50" /><br/>
+      <b>Sanity</b><br/>
+      Headless CMS for structured content
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=stripe&t=dark" width="50" /><br/>
+      <b>Stripe</b><br/>
+      Payments infrastructure
+    </td>
+  </tr>
+  <!-- Dev Ops Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Dev Ops</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=docker&t=dark" width="50" /><br/>
+      <b>Docker</b><br/>
+      Containerization tool
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=kubernetes&t=dark" width="50" /><br/>
+      <b>Kubernetes</b><br/>
+      Container orchestration platform
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jenkins&t=dark" width="50" /><br/>
+      <b>Jenkins</b><br/>
+      Automation server for CI/CD
+    </td>
+  </tr>
+  <!-- Cloud & Deployment Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Cloud & Deployment</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=cloudinary&t=dark" width="50" /><br/>
+      <b>Cloudinary</b><br/>
+      Media management & hosting
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=aws&t=dark" width="50" /><br/>
+      <b>AWS</b><br/>
+      Cloud computing platform
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=vercel&t=dark" width="50" /><br/>
+      <b>Vercel</b><br/>
+      Frontend deployment platform
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=netlify&t=dark" width="50" /><br/>
+      <b>Netlify</b><br/>
+      Web app hosting
+    </td>
+  </tr>
+  <!-- Testing Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Testing</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=jest&t=dark" width="50" /><br/>
       <b>Jest</b><br/>
       Testing framework for JavaScript
     </td>
   </tr>
-
+  <!-- Mobile Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Mobile</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=reactnative&t=dark" width="50" /><br/>
+      <b>React Native</b><br/>
+      Building cross-platform apps
+    </td>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=expo&t=dark" width="50" /><br/>
+      <b>Expo</b><br/>
+      Universal React applications
+    </td>
+  </tr>
+  <!-- Mobile Libraries Section -->
+  <tr>
+    <th colspan="5" style="text-align: center; font-size: 20px; padding: 10px;">Mobile Libraries</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=nativewind&t=dark" width="50" /><br/>
+      <b>Nativewind</b><br/>
+      Tailwind CSS for React Native
+    </td>
+  </tr>
 </table>
 
+</details>
 </details>
 
 <hr/>
@@ -588,6 +630,7 @@
 <h3 align="center">Website</h3>
 
 <a><---Old</a>
+
 <table align="center" style="border: 1px solid">
       <thead align="center">
         <tr align="center">
@@ -636,27 +679,27 @@
     <tr>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/k72.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/suburrbia.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/zentry.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/mojito-cocktail.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/apple-website.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
     </tr>
@@ -696,17 +739,17 @@
     <tr>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/dogstudio-c.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
             <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/spylt.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
             <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/Nimbus-vapor-75.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
     </tr>
@@ -715,7 +758,6 @@
    <div align="right"><a>New ---></a></div>
 
    <hr/>
-
 
 <h3 align="center">Full Stack</h3>
 
@@ -755,17 +797,17 @@ MERN Music Hub</th>
     <tr>
       <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/FocusMeet-App.git" target="_blank" rel="noopener noreferrer">
-          Repository
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
             <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/MERN-Music-Hub.git" target="_blank" rel="noopener noreferrer">
-          Repository
+         <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
             <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/shopcart.git" target="_blank" rel="noopener noreferrer">
-          Repository
+       <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
     </tr>
@@ -783,6 +825,7 @@ MERN Music Hub</th>
 <thead align="center">
   <tr>
     <th align="center">RnMovies</th>
+    <th align="center">Expo-Ecommerce</th>
   </tr>
 </thead>
 
@@ -807,6 +850,26 @@ MERN Music Hub</th>
       </table>
     </td>
     <!-- SECOND APP -->
+     <td>
+      <p> full-stack e-commerce</p>
+            <a href="https://github.com/kirito666coder/expo-ecommerce.git">
+              <img src="./images/expo-ecommerce.png" width="200">
+            </a>
+      <table align="center">
+        <tr>
+          <td>
+            <a href="https://github.com/kirito666coder/expo-ecommerce.git">
+              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/kirito666coder/expo-ecommerce.git">
+              <img src="https://img.shields.io/badge/Download_APK-34A853?style=for-the-badge&logo=android">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
 
   </tr>
 </tbody>
@@ -820,8 +883,6 @@ MERN Music Hub</th>
 <hr/>
 <br/>
 
-
-
 <details>
  <summary align="center"><b>About Me</b></summary>
 
@@ -829,10 +890,8 @@ MERN Music Hub</th>
     <img src="https://media1.tenor.com/m/4dOoXZLNkNwAAAAC/douma-kny.gif" width="200" />
  </div>
 
-
 <table align="center">
 <tr>
-
 
 <td width="70%">
 
@@ -863,9 +922,8 @@ MERN Music Hub</th>
 </tr>
 </table>
 
-
 <details>
- <summary align="center"><b>Certificates</b></summary>
+ <summary align="center"><b>(Skip) Here are a few certificates that may not be important.</b></summary>
 
  <table align="center" width="100%" style="border: 1px solid">
 
@@ -1122,10 +1180,8 @@ MERN Music Hub</th>
 
 </table>
 
-
 <details>
  <summary align="center"><b>Click here for (more)</b></summary>
-
 
 <table align="center" width="100%" style="border: 1px solid">
 
@@ -1444,8 +1500,6 @@ MERN Music Hub</th>
 
 </table>
 
-
-
 <table align="center" width="100%" style="border: 1px solid">
 
   <thead align="center">
@@ -1520,15 +1574,10 @@ MERN Music Hub</th>
 
 </table>
 
-
-
-
-
 </details>
 </details>
 <hr/>
 <br/>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Thanks%20for%20scrolling%20this%20far%20&section=footer&fontAlignY=71&fontSize=40&fontColor=#fff&textBg=false&animation=twinkling&reversal=false"/>
 
