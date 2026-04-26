@@ -627,7 +627,7 @@
 </tr>
 </table>
 
-<h3 align="center">Website</h3>
+<h3 align="center">Website Clone Projects (Learning)</h3>
 
 <a><---Old</a>
 
@@ -711,6 +711,7 @@
           <th align="center" style="border: 1px solid">Dog Studio</th>
           <th align="center" style="border: 1px solid">spylt</th>
           <th align="center" style="border: 1px solid">Nimbus</th>
+          <th align="center" style="border: 1px solid">Adidas</th>
         </tr>
       </thead>
       <tbody align="center">
@@ -733,6 +734,13 @@
               <img src="./images/nimbus.png" width="200">
             </a>
           </td>
+          </td>
+           <td style="border: 1px solid">
+            <a href="https://adidas-pi-flame.vercel.app/" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/adidas.png" width="200">
+            </a>
+          </td>
         </tr>
       </tbody>
        <tfoot align="center">
@@ -749,6 +757,11 @@
       </td>
             <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/Nimbus-vapor-75.git" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+        </a>
+      </td>
+            <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/adidas.git" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
@@ -824,7 +837,6 @@ MERN Music Hub</th>
 
 <thead align="center">
   <tr>
-    <th align="center">RnMovies</th>
     <th align="center">Expo-Ecommerce</th>
   </tr>
 </thead>
@@ -832,26 +844,7 @@ MERN Music Hub</th>
 <tbody align="center">
   <tr>
     <!-- FIRST APP -->
-    <td>
-      <p>A React Native Movie Application</p>
-      <table align="center">
-        <tr>
-          <td>
-            <a href="https://github.com/kirito666coder/rn-movie-app">
-              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-            </a>
-          </td>
-          <td>
-            <a href="https://github.com/kirito666coder/rn-movie-app/releases/download/v1.1.0/movie-app-v1.1.0.apk">
-              <img src="https://img.shields.io/badge/Download_APK-34A853?style=for-the-badge&logo=android">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- SECOND APP -->
      <td>
-      <p> full-stack e-commerce</p>
             <a href="https://github.com/kirito666coder/expo-ecommerce.git">
               <img src="./images/expo-ecommerce.png" width="200">
             </a>
@@ -870,6 +863,7 @@ MERN Music Hub</th>
         </tr>
       </table>
     </td>
+    <!-- SECOND APP -->
 
   </tr>
 </tbody>
@@ -892,6 +886,45 @@ MERN Music Hub</th>
 
 <table align="center">
 <tr>
+
+
+<h2 align="center">KIRITO</h2>
+
+<p align="center">
+Self-Taught Developer • Building for Fun
+</p>
+
+---
+
+I'm a self-taught developer with no computer science background.  
+I didn’t study CS in school or college — I started coding after dropping out of college.  
+
+Everything I know comes from building, experimenting, and learning on my own.
+
+---
+
+Most people get into programming for jobs, money, or career growth.  
+**That’s not why I’m here.**
+
+I code because I enjoy it.  
+It’s not a backup plan — **it’s something I choose.**
+
+---
+
+I build projects to:
+- learn  
+- experiment  
+- push my limits  
+
+They’re not meant to follow traditional paths or expectations — and I’m fine with that.
+
+---
+
+**This isn’t about proving anything to anyone.**  
+
+I’m here to build what I like, improve every day,  
+and enjoy the process — on my own terms.
+
 
 <td width="70%">
 
