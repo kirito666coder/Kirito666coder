@@ -887,7 +887,6 @@ MERN Music Hub</th>
 <table align="center">
 <tr>
 
-
 <h2 align="center">KIRITO</h2>
 
 <p align="center">
@@ -897,7 +896,7 @@ Self-Taught Developer • Building for Fun
 ---
 
 I'm a self-taught developer with no computer science background.  
-I didn’t study CS in school or college — I started coding after dropping out of college.  
+I didn’t study CS in school or college — I started coding after dropping out of college.
 
 Everything I know comes from building, experimenting, and learning on my own.
 
@@ -912,19 +911,19 @@ It’s not a backup plan — **it’s something I choose.**
 ---
 
 I build projects to:
-- learn  
-- experiment  
-- push my limits  
+
+- learn
+- experiment
+- push my limits
 
 They’re not meant to follow traditional paths or expectations — and I’m fine with that.
 
 ---
 
-**This isn’t about proving anything to anyone.**  
+**This isn’t about proving anything to anyone.**
 
 I’m here to build what I like, improve every day,  
 and enjoy the process — on my own terms.
-
 
 <td width="70%">
 
@@ -1497,7 +1496,7 @@ and enjoy the process — on my own terms.
       <th style="border: 1px solid">Agentic AI Apps</th>
       <th style="border: 1px solid">UI/UX</th>
       <th style="border: 1px solid">intro to figma</th>
-      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid">intro to networking</th>
     </tr>
     <tr>
         <td style="border: 1px solid">
@@ -1509,7 +1508,9 @@ and enjoy the process — on my own terms.
         <td style="border: 1px solid">
           <img src="./assets/images/simplilearn-img/introduction-to-figma.jpg" width="200">
       </td>
-      <td style="border: 1px solid"></td>
+      <td style="border: 1px solid">
+       <img src="./assets/images/simplilearn-img/introduction-to-computer-networking.jpg" width="200">
+      </td>
     </tr>
             <tr>
       <td style="border: 1px solid; padding: 10px;">
@@ -1524,6 +1525,11 @@ and enjoy the process — on my own terms.
       </td>
       <td style="border: 1px solid; padding: 10px;">
         <a href="https://simpli-web.app.link/e/Va5b0kEIw1b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/8CpKyn2tY2b" target="_blank">
           Verify Certificate
         </a>
       </td>
