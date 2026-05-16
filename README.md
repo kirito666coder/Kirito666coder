@@ -1534,6 +1534,42 @@ and enjoy the process — on my own terms.
         </a>
       </td>
     </tr>
+    <tr align="center">
+      <th style="border: 1px solid">Git Advanced</th>
+      <th style="border: 1px solid">reactjs</th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/advanced-git-concepts.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/simplilearn-img/react-components.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="" width="200">
+      </td>
+      <td style="border: 1px solid">
+       <img src="" width="200">
+      </td>
+    </tr>
+            <tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/5dsa7OQXb3b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://simpli-web.app.link/e/IcGhoFfNb3b" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+      </td>
+    </tr>
 
   </tbody>
 
