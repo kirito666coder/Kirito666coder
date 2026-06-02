@@ -627,7 +627,7 @@
 </tr>
 </table>
 
-<h3 align="center">Website Clone Projects (Learning)</h3>
+<h3 align="center">Website</h3>
 
 <a><---Old</a>
 
@@ -925,37 +925,12 @@ They’re not meant to follow traditional paths or expectations — and I’m fi
 I’m here to build what I like, improve every day,  
 and enjoy the process — on my own terms.
 
-<td width="70%">
-
-## Fun Facts
-
-> [!CAUTION]
-> **Fun Fact:**  
-> Everyone keeps asking how I’m pushing code to GitHub from 1985.  
-> Simple answer – my dad was there first.
-
-> [!TIP]
-> People wonder how I commit from 1985.  
-> Time machine = Dad.
-
-> [!IMPORTANT]
-> They asked: “Bro GitHub didn’t exist in 1985!”  
-> I said: “Neither did I… but my dad did.”
-
-</td>
-
-<td width="30%" align="center">
-
- <video src="https://github.com/user-attachments/assets/a9d83d4e-1416-424a-b35d-ab999f33a59f" width="260" controls>
-  </video>
-
-</td>
 
 </tr>
 </table>
 
 <details>
- <summary align="center"><b>(Skip) Here are a few certificates that may not be important.</b></summary>
+ <summary align="center"><b>(Skip) certificates </b></summary>
 
  <table align="center" width="100%" style="border: 1px solid">
 
@@ -967,9 +942,7 @@ and enjoy the process — on my own terms.
     </tr>
   <tr align="center">
       <th style="border: 1px solid">responsive web design</th>
-      <!-- <th style="border: 1px solid"></th>
-      <th style="border: 1px solid"></th>
-      <th style="border: 1px solid"></th> -->
+      <th style="border: 1px solid">JavaScript</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -977,14 +950,19 @@ and enjoy the process — on my own terms.
         <td style="border: 1px solid">
           <img src="./assets/images/free-code-camp/responsive-web-design.png" width="200">
       </td>
-      <!-- <td style="border: 1px solid"></td>
-      <td style="border: 1px solid"></td>
-      <td style="border: 1px solid"></td> -->
+        <td style="border: 1px solid">
+          <img src="./assets/images/free-code-camp/java-script.png" width="200">
+      </td>
     </tr>
     <!-- verify button row -->
     <tr>
       <td style="border: 1px solid; padding: 10px;">
         <a href="https://www.freecodecamp.org/certification/fcc-1c3f4a9f-9bd9-4410-b27c-c028e37e2b24/responsive-web-design-v9" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://freecodecamp.org/certification/fcc-1c3f4a9f-9bd9-4410-b27c-c028e37e2b24/javascript-v9" target="_blank">
           Verify Certificate
         </a>
       </td>
@@ -1212,8 +1190,7 @@ and enjoy the process — on my own terms.
 
 </table>
 
-<details>
- <summary align="center"><b>Click here for (more)</b></summary>
+
 
 <table align="center" width="100%" style="border: 1px solid">
 
@@ -1649,7 +1626,7 @@ and enjoy the process — on my own terms.
 
 </table>
 
-</details>
+
 </details>
 <hr/>
 <br/>
