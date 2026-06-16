@@ -75,7 +75,7 @@
   <br>
 
   <h3>Databases</h3>
- <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mongo,mysql,redis&perline=15&t=dark" />
+ <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mongo,postgres,redis&perline=15&t=dark" />
 <br>
 
   <h3>Dev Stack Utilities</h3>
@@ -392,10 +392,10 @@
       Database for most applications
     </td>
     <td align="center">
-      <img src="https://skill-icons-snowy.vercel.app/api/icons?i=mysql&t=dark" width="50" /><br/>
-      <b>MySQL</b><br/>
-      Relational database knowledge
-    </td>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?i=postgres&t=dark" width="50" /><br/>
+  <b>PostgreSQL</b><br/>
+  Relational database expertise
+</td>
     <td align="center">
       <img src="https://skill-icons-snowy.vercel.app/api/icons?i=redis&t=dark" width="50" /><br/>
       <b>Redis</b><br/>
