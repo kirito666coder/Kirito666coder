@@ -1124,8 +1124,8 @@ and enjoy the process — on my own terms.
   <tr align="center">
       <th style="border: 1px solid">(CSS)</th>
       <th style="border: 1px solid">(JavaScript)</th>
-      <th style="border: 1px solid">React(basic)</th>
-      <th style="border: 1px solid">React</th>
+      <th style="border: 1px solid">React(1)</th>
+      <th style="border: 1px solid">React(2)</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -1166,8 +1166,8 @@ and enjoy the process — on my own terms.
       </td>
     </tr>
      <tr align="center">
-      <th style="border: 1px solid">Node(js)</th>
-      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid">Node(1)</th>
+      <th style="border: 1px solid">Node(2)</th>
       <th style="border: 1px solid"></th>
       <th style="border: 1px solid"></th>
     </tr>
@@ -1175,12 +1175,19 @@ and enjoy the process — on my own terms.
         <td style="border: 1px solid">
           <img src="./assets/images/hacker-rank-img/nodejs_basic certificate.jpg" width="200">
       </td>
-      <td style="border: 1px solid"></td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/nodejs_intermediate certificate.jpg" width="200">
+      </td>
       <td style="border: 1px solid"></td>
       <td style="border: 1px solid"></td>
     </tr><tr>
       <td style="border: 1px solid; padding: 10px;">
         <a href="https://www.hackerrank.com/certificates/be8f97f48f12" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/469d6625d023" target="_blank">
           Verify Certificate
         </a>
       </td>
