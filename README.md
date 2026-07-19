@@ -838,6 +838,7 @@ MERN Music Hub</th>
 <thead align="center">
   <tr>
     <th align="center">Expo-Ecommerce</th>
+    <th align="center">Next (&&) Expo || Blog</th>
   </tr>
 </thead>
 
@@ -864,6 +865,25 @@ MERN Music Hub</th>
       </table>
     </td>
     <!-- SECOND APP -->
+        <td>
+            <a href="https://github.com/kirito666coder/expo-ecommerce.git">
+              <img src="./images/kiritoBlog.png" width="200">
+            </a>
+      <table align="center">
+        <tr>
+          <td>
+            <a href="https://github.com/kirito666coder/blog.git">
+              <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/kirito666coder/blog.git">
+              <img src="https://img.shields.io/badge/Download_APK-34A853?style=for-the-badge&logo=android">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
 
   </tr>
 </tbody>
