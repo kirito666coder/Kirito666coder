@@ -866,7 +866,7 @@ MERN Music Hub</th>
     </td>
     <!-- SECOND APP -->
         <td>
-            <a href="https://github.com/kirito666coder/expo-ecommerce.git">
+            <a href="https://github.com/kirito666coder/blog.git">
               <img src="./images/kiritoBlog.png" width="200">
             </a>
       <table align="center">
