@@ -866,7 +866,7 @@ MERN Music Hub</th>
     </td>
     <!-- SECOND APP -->
         <td>
-            <a href="https://github.com/kirito666coder/blog.git">
+            <a href="https://kirito-blog.vercel.app/">
               <img src="./images/kiritoBlog.png" width="200">
             </a>
       <table align="center">
