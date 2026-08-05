@@ -1189,7 +1189,7 @@ and enjoy the process — on my own terms.
       <th style="border: 1px solid">Node(1)</th>
       <th style="border: 1px solid">Node(2)</th>
       <th style="border: 1px solid">JavaScript(2)</th>
-      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid">SQL(basic)</th>
     </tr>
     <tr>
         <td style="border: 1px solid">
@@ -1201,7 +1201,9 @@ and enjoy the process — on my own terms.
         <td style="border: 1px solid">
           <img src="./assets/images/hacker-rank-img/javascript_intermediate certificate.jpg" width="200">
       </td>
-      <td style="border: 1px solid"></td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/sql_basic certificate.jpg" width="200">
+      </td>
     </tr><tr>
       <td style="border: 1px solid; padding: 10px;">
         <a href="https://www.hackerrank.com/certificates/be8f97f48f12" target="_blank">
@@ -1215,6 +1217,39 @@ and enjoy the process — on my own terms.
       </td>
       <td style="border: 1px solid; padding: 10px;">
         <a href="https://www.hackerrank.com/certificates/114bb825790d" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/f4d59c1d4b54" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+    </tr>
+     <tr align="center">
+      <th style="border: 1px solid">SQL(intermediate)</th>
+      <th style="border: 1px solid">SQL(advanced)</th>
+      <th style="border: 1px solid"></th>
+      <th style="border: 1px solid"></th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/sql_intermediate certificate.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+          <img src="./assets/images/hacker-rank-img/sql_advanced certificate.jpg" width="200">
+      </td>
+        <td style="border: 1px solid">
+      </td>
+      <td style="border: 1px solid"></td>
+    </tr><tr>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/e0ab93e163d1" target="_blank">
+          Verify Certificate
+        </a>
+      </td>
+      <td style="border: 1px solid; padding: 10px;">
+        <a href="https://www.hackerrank.com/certificates/b542023757ed" target="_blank">
           Verify Certificate
         </a>
       </td>
