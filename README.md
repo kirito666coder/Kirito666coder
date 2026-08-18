@@ -19,14 +19,92 @@
 
 <br/>
 
-<p align="center">
-  <a href="mailto:kirito666coder@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/>
-  </a>
-  <a href="https://discord.com/users/1374810157560758312">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="50"/>
-  </a>
-</p>
+<div align="center">
+
+  <h2>Find Me Around the Web</h2>
+
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center" border="0">
+        <a href="https://discord.com/users/1374810157560758312">
+          <img
+            src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"
+            alt="Discord"
+          />
+          <br>
+          <img
+            src="https://img.icons8.com/color/96/000000/discord-logo.png"
+            width="45"
+            alt="Discord"
+          />
+          <br>
+          <img
+            src="https://img.shields.io/badge/Chat_with_me-000000?style=flat-square&labelColor=000000&color=000000"
+            alt="Chat with me"
+          />
+        </a>
+      </td>
+      <td align="center" border="0">
+        <a href="https://www.linkedin.com/in/kirito-coder">
+          <img
+            src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+          />
+          <br>
+          <img
+            src="https://img.icons8.com/color/96/000000/linkedin.png"
+            width="45"
+            alt="LinkedIn"
+          />
+          <br>
+          <img
+            src="https://img.shields.io/badge/Connect_With_Me-000000?style=flat-square&labelColor=000000&color=000000"
+            alt="Connect With Me"
+          />
+        </a>
+      </td>
+      <td align="center" border="0">
+        <a href="https://leetcode.com/u/kirito666">
+          <img
+            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"
+            alt="LeetCode"
+          />
+          <br>
+          <img
+            src="https://skill-icons-snowy.vercel.app/api/icons?i=leetcode"
+            width="45"
+            alt="LeetCode"
+          />
+          <br>
+          <img
+            src="https://img.shields.io/badge/DSA_%26_problem_solving-000000?style=flat-square&labelColor=000000&color=000000"
+            alt="DSA and problem solving"
+          />
+        </a>
+      </td>
+      <td align="center" border="0">
+        <a href="https://tryhackme.com/p/kirito666coder">
+          <img
+            src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"
+            alt="TryHackMe"
+          />
+          <br>
+          <img
+            src="https://skill-icons-snowy.vercel.app/api/icons?i=tryhackme"
+            width="45"
+            alt="TryHackMe"
+          />
+          <br>
+          <img
+            src="https://img.shields.io/badge/Cybersecurity_learning-000000?style=flat-square&labelColor=000000&color=000000"
+            alt="Cybersecurity learning"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
  <br/>
 
@@ -945,7 +1023,6 @@ They’re not meant to follow traditional paths or expectations — and I’m fi
 I’m here to build what I like, improve every day,  
 and enjoy the process — on my own terms.
 
-
 </tr>
 </table>
 
@@ -1258,8 +1335,6 @@ and enjoy the process — on my own terms.
   </tbody>
 
 </table>
-
-
 
 <table align="center" width="100%" style="border: 1px solid">
 
@@ -1694,7 +1769,6 @@ and enjoy the process — on my own terms.
   </tbody>
 
 </table>
-
 
 </details>
 <hr/>
