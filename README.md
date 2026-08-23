@@ -790,6 +790,7 @@
           <th align="center" style="border: 1px solid">spylt</th>
           <th align="center" style="border: 1px solid">Nimbus</th>
           <th align="center" style="border: 1px solid">Adidas</th>
+          <th align="center" style="border: 1px solid">Setby</th>
         </tr>
       </thead>
       <tbody align="center">
@@ -812,11 +813,16 @@
               <img src="./images/nimbus.png" width="200">
             </a>
           </td>
-          </td>
            <td style="border: 1px solid">
             <a href="https://adidas-pi-flame.vercel.app/" target="_blank"
     rel="noopener noreferrer">
               <img src="./images/adidas.png" width="200">
+            </a>
+          </td>
+           <td style="border: 1px solid">
+            <a href="https://setby.netlify.app/" target="_blank"
+    rel="noopener noreferrer">
+              <img src="./images/setby.png" width="200">
             </a>
           </td>
         </tr>
@@ -840,6 +846,11 @@
       </td>
             <td style="border: 1px solid">
         <a href="https://github.com/kirito666coder/adidas.git" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+        </a>
+      </td>
+            <td style="border: 1px solid">
+        <a href="https://github.com/kirito666coder/setby.git" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
         </a>
       </td>
